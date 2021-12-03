@@ -127,7 +127,7 @@
 			<br>
 			Av. Djalma Batista, 482 - Chapada, Manaus - AM, 69050-010
 			<br><br>
-			De 07 de janeiro a 16 janeiro. Sessões:
+			De 13 de janeiro a 23 de janeiro. Sessões:
 			<br><br>
 			Quintas-feiras – 19h00 e 20h30<br>
 			Sextas-feiras – 19h00 e 20h30<br>
@@ -144,7 +144,7 @@
 			<br>
 			Av. Raul Lopes, 1000 - Noivos, Teresina - PI, 64048-065
 			<br><br>
-			De 27 de janeiro a 30 janeiro. Sessões:
+			De 03 de Fevereiro a 06 de Fevereiro. Sessões:
 			<br><br>
 			Quintas-feiras – 19h00 e 20h30<br>
 			Sextas-feiras – 19h00 e 20h30<br>
