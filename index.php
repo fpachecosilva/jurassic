@@ -87,24 +87,6 @@
 			<br><br><br>			
 
 			
-
-			<strong>BELÉM/PA</strong><br>
-			ESTACIONAMENTO SHOPPING BOSQUE GRÃO-PARÁ
-			<br>
-			Av. Centenário, 1052 - Mangueirão, Belém - PA, 66640-150
-			<br><br>
-			De 25 de novembro a 28 novembro. Sessões:
-			<br><br>
-			Quintas-feiras – 19h00 e 20h30<br>
-			Sextas-feiras – 19h00 e 20h30<br>
-			Sábados – 11h30, 14h30, 17h30 e 19h<br>
-			Domingos – 11h30, 14h30, 17h30 e 19h
-			<br><br>
-			Valor do ingresso entre R$120 e R$210 por veículo<br>
-			Quantidade máxima de pessoas por carro - 4<br>
-			Quantidade de carros - 100
-			<br><br><br>
-
 			<strong>BAURU/SP</strong><br>
 			ESTACIONAMENTO BOULEVARD SHOPPING BAURU
 			<br>
@@ -223,8 +205,7 @@
 		<h1 class="DesktopItem">JURASSIC SAFARI</h1>
 		<h1 class="MobileItem">JURASSIC SAFARI</h1>
 
-		<div class="menu-locais-links">			
-			<a class="active" local="bepa">BELÉM</a>
+		<div class="menu-locais-links">
 			<a class="" local="basp">BAURU</a>
 			<a class="" local="maam">MANAUS</a>
 			<a class="" local="tepi">TERESINA</a>
@@ -232,26 +213,6 @@
 			<a class="" local="maal">MACEIÓ</a>
 			<!-- <a class="" local="jumg">JUIZ DE FORA</a> -->
 		</div>		
-
-		
-		<div class="local bepa active">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO SHOPPING BOSQUE GRÃO-PARÁ</h2>
-					<p>Av. Centenário, 1052 <br> Mangueirão, Belém - PA, 66640-150</p>
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 55min</h2>
-					<p>Recomendamos a chegada 40 minutos antes<br> para desfrutarem da área interativa.</p>
-				</div>
-			</div>
-		</div>
 
 		<div class="local basp">
 			<div class="wrapper-card">
@@ -371,63 +332,7 @@
 
 	<section id="valores">
 		
-		<div class="local bepa active">
-			<h1>VALORES - PA</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-
-				<tr>
-					<td>19h</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-
-				<tr>
-					<td>20h30</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-			</table>
-
-			<h1>VALORES - PA</h1>
-			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">SÁB/DOM</td>
-				</tr>
-
-				<tr>
-					<td>11h30</td>
-					<td>R$ 190,00</td>
-				</tr>
-
-				<tr>
-					<td>14h30</td>
-					<td>R$ 200,00</td>
-				</tr>
-
-				<tr>
-					<td>17h30</td>
-
-					<td>R$ 210,00</td>
-				</tr>
-
-				<tr>
-					<td>19h00</td>
-
-					<td>R$ 200,00</td>
-				</tr>
-			</table>
-		</div>
-
+		
 		<div class="local basp">
 			<h1>VALORES - SP</h1>
 			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
@@ -776,15 +681,7 @@
 
 		<div class="wrapper-card">
 			
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasBEPA ?>">
-					<h2>Belém</h2>
-					<p>
-						(até 4 pessoas no carro independente da idade)<br>
-					</p>
-				</a>
-			</div>
-
+			
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasBASP ?>">
 					<h2>Bauru</h2>
