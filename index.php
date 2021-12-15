@@ -84,43 +84,8 @@
 			A experiência completa, safari + show, tem duração de 55min.
 			<br><br>
 			Os frequentadores do evento deverão realizar o pagamento do estacionamento conforme tempo de permanência e tabela de valores vigente.
-			<br><br><br>			
-
-			
-			<strong>MANAUS/AM</strong><br>
-			ESTACIONAMENTO AMAZONAS SHOPPING
-			<br>
-			Av. Djalma Batista, 482 - Chapada, Manaus - AM, 69050-010
-			<br><br>
-			De 13 de janeiro a 23 de janeiro. Sessões:
-			<br><br>
-			Quintas-feiras – 19h00 e 20h30<br>
-			Sextas-feiras – 19h00 e 20h30<br>
-			Sábados – 11h30, 14h30, 17h30 e 19h<br>
-			Domingos – 11h30, 14h30, 17h30 e 19h
-			<br><br>
-			Valor do ingresso entre R$120 e R$210 por veículo<br>
-			Quantidade máxima de pessoas por carro - 4<br>
-			Quantidade de carros - 100
 			<br><br><br>
-
-			<strong>TERESINA/PI</strong><br>
-			ESTACIONAMENTO TERESINA SHOPPING
-			<br>
-			Av. Raul Lopes, 1000 - Noivos, Teresina - PI, 64048-065
-			<br><br>
-			De 03 de Fevereiro a 06 de Fevereiro. Sessões:
-			<br><br>
-			Quintas-feiras – 19h00 e 20h30<br>
-			Sextas-feiras – 19h00 e 20h30<br>
-			Sábados – 11h30, 14h30, 17h30 e 19h<br>
-			Domingos – 11h30, 14h30, 17h30 e 19h
-			<br><br>
-			Valor do ingresso entre R$120 e R$210 por veículo<br>
-			Quantidade máxima de pessoas por carro - 4<br>
-			Quantidade de carros - 100
-			<br><br><br>
-
+		
 			<!-- <strong>NATAL/RN</strong><br>
 			ESTACIONAMENTO PARTAGE NORTE SHOPPING NATAL
 			<br>
@@ -137,23 +102,6 @@
 			Quantidade máxima de pessoas por carro - 4<br>
 			Quantidade de carros - 100
 			<br><br><br> -->
-
-			<strong>MACEIO/AL</strong><br>
-			ESTACIONAMENTO PARQUE SHOPPING MACEIÓ
-			<br>
-			Av. Comendador Gustavo Paiva, 5945 - Cruz das Almas, Maceió - AL, 57038-000
-			<br><br>
-			De 10 de fevereiro a 13 fevereiro. Sessões:
-			<br><br>
-			Quintas-feiras – 19h00 e 20h30<br>
-			Sextas-feiras – 19h00 e 20h30<br>
-			Sábados – 11h30, 14h30, 17h30 e 19h<br>
-			Domingos – 11h30, 14h30, 17h30 e 19h
-			<br><br>
-			Valor do ingresso entre R$120 e R$210 por veículo<br>
-			Quantidade máxima de pessoas por carro - 4<br>
-			Quantidade de carros - 100
-			<br><br><br>
 
 			<!-- <strong>JUIZ DE FORA/MG</strong><br>
 			ESTACIONAMENTO SHOPPING JARDIM NORTE
@@ -189,51 +137,10 @@
 		<h1 class="MobileItem">JURASSIC SAFARI</h1>
 
 		<div class="menu-locais-links">
-			<a class="active" local="maam">MANAUS</a>
-			<a class="" local="tepi">TERESINA</a>
 			<!-- <a class="" local="narn">NATAL</a> -->
-			<a class="" local="maal">MACEIÓ</a>
 			<!-- <a class="" local="jumg">JUIZ DE FORA</a> -->
-		</div>		
-
-		<div class="local maam active">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO AMAZONAS SHOPPING</h2>
-					<p>Av. Djalma Batista, 482 <br> Chapada, Manaus - AM, 69050-010</p>
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 55min</h2>
-					<p>Recomendamos a chegada 40 minutos antes<br> para desfrutarem da área interativa.</p>
-				</div>
-			</div>
-		</div>
-
-		<div class="local tepi">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO TERESINA SHOPPING</h2>
-					<p>Av. Raul Lopes, 1000 <br> Noivos, Teresina - PI, 64048-065</p>
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 55min</h2>
-					<p>Recomendamos a chegada 40 minutos antes<br> para desfrutarem da área interativa.</p>
-				</div>
-			</div>
-		</div>
-
+		</div>	
+		
 		<div class="local narn">
 			<div class="wrapper-card">
 				<div class="card">
@@ -252,26 +159,7 @@
 				</div>
 			</div>
 		</div>
-
-		<div class="local maal">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO PARQUE SHOPPING MACEIÓ</h2>
-					<p>Av. Comendador Gustavo Paiva, 5945 <br> Cruz das Almas, Maceió - AL, 57038-000</p>
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 55min</h2>
-					<p>Recomendamos a chegada 40 minutos antes<br> para desfrutarem da área interativa.</p>
-				</div>
-			</div>
-		</div>
-
+		
 		<div class="local jumg">
 			<div class="wrapper-card">
 				<div class="card">
@@ -293,122 +181,8 @@
 
 	</section>
 
-	<section id="valores">		
+	<section id="valores">			
 		
-		<div class="local maam">
-			<h1>VALORES - AM</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-
-				<tr>
-					<td>19h</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-
-				<tr>
-					<td>20h30</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-			</table>
-
-			<h1>VALORES - AM</h1>
-			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">SÁB/DOM</td>
-				</tr>
-
-				<tr>
-					<td>11h30</td>
-					<td>R$ 190,00</td>
-				</tr>
-
-				<tr>
-					<td>14h30</td>
-					<td>R$ 200,00</td>
-				</tr>
-
-				<tr>
-					<td>17h30</td>
-
-					<td>R$ 210,00</td>
-				</tr>
-
-				<tr>
-					<td>19h00</td>
-
-					<td>R$ 200,00</td>
-				</tr>
-			</table>
-		</div>
-
-		<div class="local tepi">
-			<h1>VALORES - PI</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-
-				<tr>
-					<td>19h</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-
-				<tr>
-					<td>20h30</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-			</table>
-
-			<h1>VALORES - PI</h1>
-			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">SÁB/DOM</td>
-				</tr>
-
-				<tr>
-					<td>11h30</td>
-					<td>R$ 190,00</td>
-				</tr>
-
-				<tr>
-					<td>14h30</td>
-					<td>R$ 200,00</td>
-				</tr>
-
-				<tr>
-					<td>17h30</td>
-
-					<td>R$ 210,00</td>
-				</tr>
-
-				<tr>
-					<td>19h00</td>
-
-					<td>R$ 200,00</td>
-				</tr>
-			</table>
-		</div>
-
 		<div class="local narn">
 			<h1>VALORES - RN</h1>
 			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
@@ -464,64 +238,7 @@
 					<td>R$ 200,00</td>
 				</tr>
 			</table>
-		</div>
-
-		<div class="local maal">
-			<h1>VALORES - AL</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-
-				<tr>
-					<td>19h</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-
-				<tr>
-					<td>20h30</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-			</table>
-
-			<h1>VALORES - AL</h1>
-			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">SÁB/DOM</td>
-				</tr>
-
-				<tr>
-					<td>11h30</td>
-					<td>R$ 190,00</td>
-				</tr>
-
-				<tr>
-					<td>14h30</td>
-					<td>R$ 200,00</td>
-				</tr>
-
-				<tr>
-					<td>17h30</td>
-
-					<td>R$ 210,00</td>
-				</tr>
-
-				<tr>
-					<td>19h00</td>
-
-					<td>R$ 200,00</td>
-				</tr>
-			</table>
-		</div>
+		</div>		
 
 		<div class="local jumg">
 			<h1>VALORES - MG</h1>
@@ -585,25 +302,7 @@
 		<h1 class="">INGRESSOS</h1>
 
 		<div class="wrapper-card">			
-			
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMAAM ?>">
-					<h2>Manaus</h2>
-					<p>
-						(até 4 pessoas no carro independente da idade)<br>
-					</p>
-				</a>
-			</div>
-
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasTEPI ?>">
-					<h2>Teresina</h2>
-					<p>
-						(até 4 pessoas no carro independente da idade)<br>
-					</p>
-				</a>
-			</div>
-
+						
 			<!-- <div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasNARN ?>">
 					<h2>Natal</h2>
@@ -612,16 +311,7 @@
 					</p>
 				</a>
 			</div> -->
-
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMAAL ?>">
-					<h2>Maceió</h2>
-					<p>
-						(até 4 pessoas no carro independente da idade)<br>
-					</p>
-				</a>
-			</div>
-
+			
 			<!-- <div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasJUMG ?>">
 					<h2>Juiz de Fora</h2>
