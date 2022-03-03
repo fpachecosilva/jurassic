@@ -40,7 +40,7 @@
 	</header>
 
 	<section id="principal">
-		<img class="bg" src="<? echo $images ?>bg2.jpg">
+		<img class="bg" src="<? echo $images ?>bg3.jpg">
 		<!-- <img class="dragao-img DesktopItem" src="<? echo $images ?>dino_rex_464x765.png"> -->
 		<article>
 			<!-- <img style="float:none" src="<? echo $images ?>aviso.jpg"> -->
@@ -51,7 +51,7 @@
 
 		<h2>JURASSIC SAFARI EXPERIENCE</h2>
 		<h3 id="ancora-abas">
-			O megashow em formato Drive-in, apresenta inúmeras réplicas animadas de dinossauros em tamanho real com movimentos e performances impressionantes entre os carros.
+			Com temporadas de estrondoso sucesso em diversas cidades brasileiras, que já contaram mais de 800 mil espectadores no formato Drive-in, a megaexperiência chega à cidade em novo formato trazendo diversas réplicas animadas de dinossauros em tamanhos reais que irão correr ao redor dos visitantes em performances e movimentos impressionantes
 		</h3>
 		<!-- <img class="dino-img DesktopItem" src="<? echo $images ?>dino_spino_622x781.png"> -->
 	</section>
@@ -63,71 +63,50 @@
 			<a class="exposicao" href="#ancora-abas">OUTRAS INFORMAÇÕES</a>
 		</div>
 		<p id="megashow">
-			Uma nova experiência em entretenimento, produzido pela Chaim Entretenimento, o Jurassic Safari Experience é uma opção de passeio para toda a família. O megaevento em formato Drive-in, mistura muita interatividade, diversão e ciência em um ambiente lúdico e recheado de conhecimento, experiência e aventura. Tudo isso acontece, simulando um safari na qual os "animais selvagens" podem ser vistos de perto ou seja, sem a necessidade de sair do carro.
+			A experiência jurássica que apresenta uma aventura inesquecível para toda a família estreia em São Paulo no dia <strong>09 de abril</strong>, no estacionamento do <strong>Shopping VillaLobos</strong>, agora em novo formato! 
 			<br><br>
-
-			Após a leitura do ingresso, os clientes serão direcionados para a nossa arena para o início do show que contará a história, de um grupo de cientistas que recriou dinossauros de diversos períodos a partir do DNA de fósseis e esses dinossauros agora vivem ali.
-
+			O megaevento <strong>Jurassic Safari Diner Adventure</strong> mistura muita interatividade, diversão e ciência em um ambiente lúdico e recheado de conhecimento, experiência e aventura, a mistura perfeita entre diversão e gastronomia para toda a família. 
 			<br><br>
-			O público irá se surpreender com varias especies de répteis pré-históricos animados por técnicas de manipulação e animatronic, incluindo o temível T-Rex. O show ainda conta com o suporte de telões de led, para uma melhor interação com o publico. Todo o conteúdo de Jurassic Safari Experience tem supervisão de um paleontólogo para que ficção e educação desempenhem a sinergia perfeita.
-
-
+			O show conta a história de um grupo de cientistas que recriou dinossauros de diversos períodos a partir do DNA de fósseis. Dinossauros que agora vivem, ali, dentro de um ambiente mágico. Com a plateia em formato diner*, o público irá se surpreender com as dezenas de répteis pré-históricos animados por técnicas de manipulação e animatronic, que irão correr pelo espaço em performances e movimentos impressionantes bem pertinho dos participantes. Todo o conteúdo de <strong>Jurassic Safari Diner Adventure</strong> tem supervisão de um paleontólogo para que ficção e educação desempenhem a sinergia perfeita.
 		</p>
 		<p id="espetaculo">
-			Uma fantástica experiência ao lado de criaturas pré-históricas que resolveram adotar São Paulo, Rio de Janeiro como seu habitat natural. Jurassic Safari Experience se passa em um parque imaginário construído por cientistas que conseguiram recriar dinossauros de diversos períodos, como triássico, jurássico e cretáceo. Ao longo do trajeto, dentro de seus carros, todos se depararão com diferentes espécies de dinos até chegarem em uma arena. Ali, uma nova viagem começa. Mike, rapaz jovem e engraçado, será o nosso guia neste mundo encantado em que enormes répteis voltam à vida e interagem com a plateia. Durante toda a apresentação, Mike estará presente para nos explicar sobre o surgimento do Jurassic Safari Experience e como esses animais migníficos foram parar ali, além de dar detalhes científicos de cada um deles. O público irá se encantar com espécies de dinos como braquiossauros, estegossauros, anquilossauro, triceratops, o temido T-Rex e muitos outros. Uma aventura inesquecível para toda a família.
+			O cardápio é composto de uma seleção variada e deliciosa de receitas com menu completo. Entre entradas, pratos principais e sobremesas, o público poderá escolher opções que vão desde saladas e costela ao barbecue com batatas salteadas, até hambúrgueres tradicionais e vegetariano, massas, risotos, nhoques e parmeggianas de frango e vermelha. As sobremesas não ficam atrás: são diversas opções com destaque para o bolo red velvet e o tradicional pudim.
 			<br><br>
-			Pesquisa científica<br>
+			Os valores de Jurassic Safari Diner Adventure começam a partir de R$50,00 e podem ser adquiridos pelo site <a style="text-decoration: underline" href="#ingressos">www.jurassicsafari.com.br</a>. O evento atende a todas as regras de higiene necessárias para sua realização.
+			<br><br>
+			<strong>Protocolo Covid</strong><br>
+			Para acesso ao local do evento é obrigatório que adultos apresentem comprovante de vacinação contra COVID-19 com, no mínimo, a primeira dose - físico ou digital (disponível nos aplicativos conecte SUS). Crianças não precisam apresentar.
+			<br><br>
+			<strong>Pesquisa científica</strong><br>
 			Todo o conteúdo do megashow tem supervisão de Bruno Gonçalves Augusta. Paleontólogo integrante do Laboratório de Paleontologia – Museu de Zoologia da Universidade de São Paulo (MZUSP), Bruno possui graduação em Ciências Biológicas pelo Centro Universitário Fundação Santo André (2007) e Mestrado em Sistemática, Taxonomia Animal e Biodiversidade pelo Museu de Zoologia da USP (2013). Realizou doutorado no Programa de Pós-Graduação em Zoologia do Instituto de Biociências da USP e é coordenador geral do Grupo CienciAção - Divulgação Científica. Tem experiência nas áreas de Zoologia, com ênfase em Paleozoologia; e Divulgação Científica, com ênfase em educação não-formal de Paleontologia em Exposições, Museus e Centros de Ciência. Sua pesquisa está concentrada em ontogenia, morfometria e filogenia de répteis fósseis.
 		</p>
 		<p id="exposicao">
-			O acesso ao áudio das apresentações poderá ser feito por meio de canal FM do rádio do veículo. Outra novidade é que o espectador deverá marcar por um app, a ser baixado previamente no celular a compra de alimentos, bebidas e souvenires.
-			A experiência completa, safari + show, tem duração de 55min.
+			<strong>
+			SERVIÇO<br>
+			JURASSIC SAFARI DINER ADVENTURE
 			<br><br>
-			Os frequentadores do evento deverão realizar o pagamento do estacionamento conforme tempo de permanência e tabela de valores vigente.
-			<br><br><br>
-		
-			<!-- <strong>NATAL/RN</strong><br>
-			ESTACIONAMENTO PARTAGE NORTE SHOPPING NATAL
-			<br>
-			Av. Dr. João Medeiros Filho, 2395 -  Natal - RN, 59110-200
+			SÃO PAULO/SP<br>
+			Estacionamento Shopping VillaLobos<br></strong>
+			Av. Dra. Ruth Cardoso, 4777 - Jardim Universidade Pinheiros, São Paulo - SP, 05477-000
 			<br><br>
-			De 03 de fevereiro a 06 fevereiro. Sessões:
-			<br><br>
-			Quintas-feiras – 19h00 e 20h30<br>
-			Sextas-feiras – 19h00 e 20h30<br>
-			Sábados – 11h30, 14h30, 17h30 e 19h<br>
-			Domingos – 11h30, 14h30, 17h30 e 19h
-			<br><br>
-			Valor do ingresso entre R$120 e R$210 por veículo<br>
-			Quantidade máxima de pessoas por carro - 4<br>
-			Quantidade de carros - 100
-			<br><br><br> -->
-
-			<!-- <strong>JUIZ DE FORA/MG</strong><br>
-			ESTACIONAMENTO SHOPPING JARDIM NORTE
-			<br>
-			Av. Brasil, 6345 - Mariano Procópio, Juiz de Fora - MG, 36080-060
-			<br><br>
-			De 17 de fevereiro a 20 fevereiro. Sessões:
-			<br><br>
-			Quintas-feiras – 19h00 e 20h30<br>
-			Sextas-feiras – 19h00 e 20h30<br>
-			Sábados – 11h30, 14h30, 17h30 e 19h<br>
-			Domingos – 11h30, 14h30, 17h30 e 19h
-			<br><br>
-			Valor do ingresso entre R$120 e R$210 por veículo<br>
-			Quantidade máxima de pessoas por carro - 4<br>
-			Quantidade de carros - 100
-			<br><br><br> -->
-
+			Sessões:<br>
+			A partir de 09 de abril:<br>			
+			Quintas e Sextas – 18h e 20h<br>
+			Sábados e Domingos – 10h30, 13h, 15h, 17h, 19 e 21h<br>
+			Obs.: Sessões extras poderão ser abertas conforme demanda.<br>
+			Capacidade: 300 Lugares<br>
+			Duração: 75 minutos<br>
+			Classificação Etária: Livre
 		</p>
 
+		<video id='video' src="<? echo $images ?>SAFARI DINER 16x9 SP.mov" preload="auto" type="video/mp4" controls poster="<? echo $images ?>video.jpg"></video>
+
 		<div class="parceiros DesktopItem">
-			<p style="text-align: center">PARCEIROS</p>
-			<img class="logo-parceiros" src="<? echo $images ?>logos-parceiros-euro-semparar.png">
+			<!-- <p style="text-align: center">PARCEIROS</p>
+			<img class="logo-parceiros" src="<? echo $images ?>logos-parceiros-euro-semparar.png"> -->
 
 			<p style="text-align: center">MEDIA PARTNER OFICIAL</p>
-			<img class="logo-parceiros" src="<? echo $images ?>logos-parceiros.png">
+			<img class="logo-parceiros" src="<? echo $images ?>media-partner.png">
 		</div>
 
 	</section>
@@ -137,194 +116,72 @@
 		<h1 class="MobileItem">JURASSIC SAFARI</h1>
 
 		<div class="menu-locais-links">
-			<!-- <a class="" local="narn">NATAL</a> -->
-			<!-- <a class="" local="jumg">JUIZ DE FORA</a> -->
+			<a class="active" local="sp">SÃO PAULO</a>
 		</div>	
 		
-		<div class="local narn">
+		<div class="local sp active">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
 						<img src="<? echo $images ?>icon02.png">
 					</div>
-					<h2>ESTACIONAMENTO PARTAGE NORTE SHOPPING NATAL</h2>
-					<p>Av. Dr. João Medeiros Filho, 2395 <br>  Natal - RN, 59110-200</p>
+					<h2>ESTACIONAMENTO SHOPPING VILLA LOBOS</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
 						<img src="<? echo $images ?>icon03.png">
 					</div>
-					<h2>DURAÇÃO - 55min</h2>
-					<p>Recomendamos a chegada 40 minutos antes<br> para desfrutarem da área interativa.</p>
+					<h2>DURAÇÃO - 75min</h2>
 				</div>
 			</div>
 		</div>
 		
-		<div class="local jumg">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO SHOPPING JARDIM NORTE</h2>
-					<p>Av. Brasil, 6345 <br> Mariano Procópio, Juiz de Fora - MG, 36080-060</p>
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 55min</h2>
-					<p>Recomendamos a chegada 40 minutos antes<br> para desfrutarem da área interativa.</p>
-				</div>
-			</div>
-		</div>
-
 	</section>
 
-	<section id="valores">			
-		
-		<div class="local narn">
-			<h1>VALORES - RN</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
+	<section id="valores">		
+		<div class="local sp active">
+			<h1>HORÁRIOS E VALORES - SP</h1>
+
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
 			<table>
 				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
+					<td class="first"></td>
+					<td class="first">QUI-SEX</td>
+					<td class="first">SÁB-DOM</td>
 				</tr>
 
 				<tr>
-					<td>19h</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
+					<td class="first">Couvert Artistico</td>
+					<td>R$ 50,00</td>
+					<td>R$ 60,00</td>
 				</tr>
 
 				<tr>
-					<td>20h30</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
+					<td class="first">Promocional Couvert Art + Consumação</td>
+					<td>R$ 80,00<br> (R$ 35 Couvert + R$ 45 consumação)</td>
+					<td>R$ 90,00<br> (R$ 45 couvert + R$ 45 consumação)</td>
 				</tr>
 			</table>
-
-			<h1>VALORES - RN</h1>
-			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">SÁB/DOM</td>
-				</tr>
-
-				<tr>
-					<td>11h30</td>
-					<td>R$ 190,00</td>
-				</tr>
-
-				<tr>
-					<td>14h30</td>
-					<td>R$ 200,00</td>
-				</tr>
-
-				<tr>
-					<td>17h30</td>
-
-					<td>R$ 210,00</td>
-				</tr>
-
-				<tr>
-					<td>19h00</td>
-
-					<td>R$ 200,00</td>
-				</tr>
-			</table>
-		</div>		
-
-		<div class="local jumg">
-			<h1>VALORES - MG</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-
-				<tr>
-					<td>19h</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-
-				<tr>
-					<td>20h30</td>
-					<td>R$ 160,00</td>
-					<td>R$ 180,00</td>
-				</tr>
-			</table>
-
-			<h1>VALORES - MG</h1>
-			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
-			<table>
-				<tr>
-					<td class="first">HORÁRIO</td>
-					<td class="first">SÁB/DOM</td>
-				</tr>
-
-				<tr>
-					<td>11h30</td>
-					<td>R$ 190,00</td>
-				</tr>
-
-				<tr>
-					<td>14h30</td>
-					<td>R$ 200,00</td>
-				</tr>
-
-				<tr>
-					<td>17h30</td>
-
-					<td>R$ 210,00</td>
-				</tr>
-
-				<tr>
-					<td>19h00</td>
-
-					<td>R$ 200,00</td>
-				</tr>
-			</table>
-		</div>
+		</div>	
 	</section>
 
 	<section id="ingressos">
 		<h1 class="">INGRESSOS</h1>
 
+		<p class="aviso">
+			Atendendo aos decretos municipais n°60.488 (São Paulo), o evento Jurassic Safari Experience, solicitará ao público que irá assistir e viver a experiência , o comprovante de vacinação do cidadão contra a COVID-19 para o acesso aos eventos. O público poderá apresentar o comprovante físico de vacinação (carteirinha de vacinação), ou de forma digital disponível nas plataformas ConectSUS, que podem ser baixados na loja de aplicativos do seu smartphone.
+		</p>
+
 		<div class="wrapper-card">			
 						
-			<!-- <div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasNARN ?>">
-					<h2>Natal</h2>
-					<p>
-						(até 4 pessoas no carro independente da idade)<br>
-					</p>
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
+					<h2>SÃO PAULO</h2>
 				</a>
-			</div> -->
-			
-			<!-- <div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasJUMG ?>">
-					<h2>Juiz de Fora</h2>
-					<p>
-						(até 4 pessoas no carro independente da idade)<br>
-					</p>
-				</a>
-			</div> -->
+			</div>			
 		</div>
 
-
-
-		<div class="ingressostxt">
+		<!-- <div class="ingressostxt">
 			<p>
 				Venda de ingressos apenas on-line;<br>
 				Obrigatório a apresentação do ingresso em forma digital ou impressa através de e-ticket. A leitura do ingresso será realizada através de leitores óticos, sem contato manual<br>
@@ -347,7 +204,7 @@
 				Estamos INTEGRALMENTE focados no cumprimento dos protocolos relativos à retomada consciente, não apenas comunicando os procedimentos e exigências como aferindo o INTEGRAL cumprimento por todos.<br>
 				Contamos com a sua colaboração para que todos possam ter a oportunidade de assistir a um grande espetáculo com segurança sem colocar em risco a manutenção das autorizações pertinentes. O descumprimento das normas estabelecidas sujeitarão o público a advertência e, em caso de reincidência, solicitação de retirada.<br>
 			</p>
-		</div>
+		</div> -->
 
 		<div class="box-social">
 			<?php include 'assets/social.php'; ?>
