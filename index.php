@@ -49,9 +49,9 @@
 		<!-- <a onclick="pixel()" class="Btn-primary" href="<? echo $siteVendas ?>">Comprar ingressos</a> -->
 		<a class="Btn-primary" href="#ingressos">Comprar ingressos</a>
 
-		<h2>JURASSIC SAFARI EXPERIENCE</h2>
+		<h2>JURASSIC SAFARI EXPERIENCE DINER ADVENTURE</h2>
 		<h3 id="ancora-abas">
-			Com temporadas de estrondoso sucesso em diversas cidades brasileiras, que já contaram mais de 800 mil espectadores no formato Drive-in, a megaexperiência chega à cidade em novo formato trazendo diversas réplicas animadas de dinossauros em tamanhos reais que irão correr ao redor dos visitantes em performances e movimentos impressionantes
+			Com temporadas de estrondoso sucesso em diversas cidades brasileiras, que já contaram mais de 800 mil espectadores no formato Drive-in, a megaexperiência chega à cidade em novo formato trazendo diversas réplicas animadas de dinossauros em tamanhos reais que irão percorrer pelo espaço em performances e movimentos impressionantes
 		</h3>
 		<!-- <img class="dino-img DesktopItem" src="<? echo $images ?>dino_spino_622x781.png"> -->
 	</section>

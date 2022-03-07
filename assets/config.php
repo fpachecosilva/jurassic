@@ -7,8 +7,8 @@
 <?php
 	$empresa = 'JURASSIC SAFARI';
 	$CNPJ = '00.000.000/0001-00';
-	// $url = 'http://localhost/jurassicsafari/';
-	$url = 'https://www.jurassicsafari.com.br/';
+	$url = 'http://localhost/jurassicsafari/';
+	// $url = 'https://www.jurassicsafari.com.br/';
 	$images = $url.'assets/images/';
 	$Tags = '';
 	
