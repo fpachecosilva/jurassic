@@ -72,7 +72,7 @@
 		<p id="espetaculo">
 			O cardápio é composto de uma seleção variada e deliciosa de receitas com menu completo. Entre entradas, pratos principais e sobremesas, o público poderá escolher opções que vão desde saladas e costela ao barbecue com batatas salteadas, até hambúrgueres tradicionais e vegetariano, massas, risotos, nhoques e parmeggianas de frango e vermelha. As sobremesas não ficam atrás: são diversas opções com destaque para o bolo red velvet e o tradicional pudim.
 			<br><br>
-			Os valores de Jurassic Safari Diner Adventure começam a partir de R$50,00 e podem ser adquiridos pelo site <a style="text-decoration: underline" href="#ingressos">www.jurassicsafari.com.br</a>. O evento atende a todas as regras de higiene necessárias para sua realização.
+			Os valores de Jurassic Safari Diner Adventure começam a partir de R$35,00 e podem ser adquiridos pelo site <a style="text-decoration: underline" href="#ingressos">www.jurassicsafari.com.br</a>. O evento atende a todas as regras de higiene necessárias para sua realização.
 			<br><br>
 			<strong>Protocolo Covid</strong><br>
 			Para acesso ao local do evento é obrigatório que adultos apresentem comprovante de vacinação contra COVID-19 com, no mínimo, a primeira dose - físico ou digital (disponível nos aplicativos conecte SUS). Crianças não precisam apresentar.
@@ -84,13 +84,32 @@
 			<strong>
 			SERVIÇO<br>
 			JURASSIC SAFARI DINER ADVENTURE
-			<br><br>
+			<br><br></strong>
+
+			<strong>
 			SÃO PAULO/SP<br>
-			Estacionamento Shopping VillaLobos<br></strong>
+			Estacionamento Shopping VillaLobos</strong> - Sessões a partir de 09 de Abril<br>
 			Av. Dra. Ruth Cardoso, 4777 - Jardim Universidade Pinheiros, São Paulo - SP, 05477-000
 			<br><br>
-			Sessões:<br>
-			A partir de 09 de abril:<br>			
+			
+			<strong>
+			CURITIBA/PR<br>
+			Estacionamento do Park Shopping Barigüi</strong> - Sessões a partir de 07 de Maio<br>
+			R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100
+			<br><br>
+			
+			<strong>
+			BRASÍLIA/DF<br>
+			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 13 de Maio<br>
+			SMAS Trecho 1 - Guará, Brasília - DF, 71219-900
+			<br><br>
+			
+			<strong>
+			PORTO ALEGRE/RS<br>
+			Estacionamento do Barra Shopping Sul</strong> - Sessões a partir de 02 de Julho<br>
+			Av. Diário de Notícias, 300 - Cristal, Porto Alegre - RS, 90810-080
+			<br><br>
+			
 			Quintas e Sextas – 18h e 20h<br>
 			Sábados e Domingos – 10h30, 13h, 15h, 17h, 19 e 21h<br>
 			Obs.: Sessões extras poderão ser abertas conforme demanda.<br>
@@ -117,6 +136,9 @@
 
 		<div class="menu-locais-links">
 			<a class="active" local="sp">SÃO PAULO</a>
+			<a class="" local="pr">CURITIBA</a>
+			<a class="" local="br">BRASÍLIA</a>
+			<a class="" local="pa">PORTO ALEGRE</a>
 		</div>	
 		
 		<div class="local sp active">
@@ -136,33 +158,461 @@
 			</div>
 		</div>
 		
+		<div class="local pr">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>ESTACIONAMENTO PARK SHOPPING BARIGÜI</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="local br">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>ESTACIONAMENTO PARK SHOPPING BRASÍLIA</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="local pa">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>ESTACIONAMENTO BARRA SHOPPING SUL</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+		
 	</section>
 
-	<section id="valores">		
+	<section id="valores">
+				
 		<div class="local sp active">
 			<h1>HORÁRIOS E VALORES - SP</h1>
 
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
-			<table>
-				<tr>
-					<td class="first"></td>
-					<td class="first">QUI-SEX</td>
-					<td class="first">SÁB-DOM</td>
-				</tr>
 
-				<tr>
-					<td class="first">Couvert Artistico</td>
-					<td>R$ 50,00</td>
-					<td>R$ 60,00</td>
-				</tr>
-
-				<tr>
-					<td class="first">Promocional Couvert Art + Consumação</td>
-					<td>R$ 80,00<br> (R$ 35 Couvert + R$ 45 consumação)</td>
-					<td>R$ 90,00<br> (R$ 45 couvert + R$ 45 consumação)</td>
-				</tr>
+			<div class="experiencias">
+				<p>EXPERIÊNCIAS</p>
+			</div>
+			
+			<table class='table-encontro'>
+				<tbody>
+					<tr class='linha1'>
+						<th colspan='2'>ENCONTRO COM PERSONAGENS</th>
+					</tr>
+					<tr>
+						<td colspan='2' class='bgnormal'>Nessa experiência você terá um encontro com alguns personagens para interação e foto</td>
+					</tr>
+					<tr>
+						<td class='esq'>Dias / Sessões</td>
+						<td class='dir'>Interação com Personagens + Consumação</td>
+					</tr>
+					<tr class='linha1'>
+						<td class='esq'>QUI / SEX (16h)</td>
+						<td class='dir'>Promo: R$ 35,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha2'>
+						<td class='esq'>SEX (16h)</td>
+						<td class='dir'>Promo: R$ 40,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha3'>
+						<td class='esq'>SAB / DOM (10h30) e DOM (21h)</td>
+						<td class='dir'>Promo: R$ 55,00 (R$ 45,00 Consumação) + (R$ 10,00 Couvert Art)</td>
+					</tr>					
+				</tbody>
 			</table>
-		</div>	
+
+			<table class="table-megashow">
+				<tbody>
+					<tr class="linha1">
+						<th colspan='4'>MEGASHOW</th>
+					</tr>
+
+					<tr>
+						<td colspan='4'>Megaexperiência com muita música, dança e teatro, além de efeitos especiais visuais e olfativos.</td>
+					</tr>
+
+					<tr>
+						<td class='esq' colspan='2'>Dias / Sessões</td>
+						<td class='meio'>Couvert Artístico</td>
+						<td class='dir'>Couvert Art + Consumação</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td rowspan='2' colspan='2'>QUI (18h)</td>
+						<td rowspan='2'>R$ 35,00</td>
+						<td>R$ 60,00</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td>R$ 45 Consum + R$ 15 Couvert Art</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td rowspan='2' colspan='2'>QUI / SEX (20h)</td>
+						<td rowspan='2'>R$ 50,00</td>
+						<td>R$ 80,00</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td>R$ 45 Consum + R$ 35 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td rowspan='4'>SAB / DOM</td>												
+						<td>13h00</td>
+						<td rowspan='5'>R$ 60,00</td>
+						<td rowspan='2'>R$ 90,00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>15h00</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>17h00</td>
+						<td rowspan='3'>R$ 45 Consum + R$ 45 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>19h00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>SAB</td>										
+						<td>21h00</td>
+					</tr>					
+				</tbody>
+			</table>
+		</div>
+
+		<div class="local pr">
+			<h1>HORÁRIOS E VALORES - PR</h1>
+
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+
+			<div class="experiencias">
+				<p>EXPERIÊNCIAS</p>
+			</div>
+			
+			<table class='table-encontro'>
+				<tbody>
+					<tr class='linha1'>
+						<th colspan='2'>ENCONTRO COM PERSONAGENS</th>
+					</tr>
+					<tr>
+						<td colspan='2' class='bgnormal'>Nessa experiência você terá um encontro com alguns personagens para interação e foto</td>
+					</tr>
+					<tr>
+						<td class='esq'>Dias / Sessões</td>
+						<td class='dir'>Interação com Personagens + Consumação</td>
+					</tr>
+					<tr class='linha1'>
+						<td class='esq'>QUI / SEX (16h)</td>
+						<td class='dir'>Promo: R$ 35,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha2'>
+						<td class='esq'>SEX (16h)</td>
+						<td class='dir'>Promo: R$ 40,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha3'>
+						<td class='esq'>SAB / DOM (10h30) e DOM (21h)</td>
+						<td class='dir'>Promo: R$ 55,00 (R$ 45,00 Consumação) + (R$ 10,00 Couvert Art)</td>
+					</tr>					
+				</tbody>
+			</table>
+
+			<table class="table-megashow">
+				<tbody>
+					<tr class="linha1">
+						<th colspan='4'>MEGASHOW</th>
+					</tr>
+
+					<tr>
+						<td colspan='4'>Megaexperiência com muita música, dança e teatro, além de efeitos especiais visuais e olfativos.</td>
+					</tr>
+
+					<tr>
+						<td class='esq' colspan='2'>Dias / Sessões</td>
+						<td class='meio'>Couvert Artístico</td>
+						<td class='dir'>Couvert Art + Consumação</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td rowspan='2' colspan='2'>QUI (18h)</td>
+						<td rowspan='2'>R$ 35,00</td>
+						<td>R$ 60,00</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td>R$ 45 Consum + R$ 15 Couvert Art</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td rowspan='2' colspan='2'>QUI / SEX (20h)</td>
+						<td rowspan='2'>R$ 50,00</td>
+						<td>R$ 80,00</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td>R$ 45 Consum + R$ 35 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td rowspan='4'>SAB / DOM</td>												
+						<td>13h00</td>
+						<td rowspan='5'>R$ 60,00</td>
+						<td rowspan='2'>R$ 90,00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>15h00</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>17h00</td>
+						<td rowspan='3'>R$ 45 Consum + R$ 45 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>19h00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>SAB</td>										
+						<td>21h00</td>
+					</tr>					
+				</tbody>
+			</table>
+		</div>
+
+		<div class="local br">
+			<h1>HORÁRIOS E VALORES - DF</h1>
+
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+
+			<div class="experiencias">
+				<p>EXPERIÊNCIAS</p>
+			</div>
+			
+			<table class='table-encontro'>
+				<tbody>
+					<tr class='linha1'>
+						<th colspan='2'>ENCONTRO COM PERSONAGENS</th>
+					</tr>
+					<tr>
+						<td colspan='2' class='bgnormal'>Nessa experiência você terá um encontro com alguns personagens para interação e foto</td>
+					</tr>
+					<tr>
+						<td class='esq'>Dias / Sessões</td>
+						<td class='dir'>Interação com Personagens + Consumação</td>
+					</tr>
+					<tr class='linha1'>
+						<td class='esq'>QUI / SEX (16h)</td>
+						<td class='dir'>Promo: R$ 35,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha2'>
+						<td class='esq'>SEX (16h)</td>
+						<td class='dir'>Promo: R$ 40,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha3'>
+						<td class='esq'>SAB / DOM (10h30) e DOM (21h)</td>
+						<td class='dir'>Promo: R$ 55,00 (R$ 45,00 Consumação) + (R$ 10,00 Couvert Art)</td>
+					</tr>					
+				</tbody>
+			</table>
+
+			<table class="table-megashow">
+				<tbody>
+					<tr class="linha1">
+						<th colspan='4'>MEGASHOW</th>
+					</tr>
+
+					<tr>
+						<td colspan='4'>Megaexperiência com muita música, dança e teatro, além de efeitos especiais visuais e olfativos.</td>
+					</tr>
+
+					<tr>
+						<td class='esq' colspan='2'>Dias / Sessões</td>
+						<td class='meio'>Couvert Artístico</td>
+						<td class='dir'>Couvert Art + Consumação</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td rowspan='2' colspan='2'>QUI (18h)</td>
+						<td rowspan='2'>R$ 35,00</td>
+						<td>R$ 60,00</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td>R$ 45 Consum + R$ 15 Couvert Art</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td rowspan='2' colspan='2'>QUI / SEX (20h)</td>
+						<td rowspan='2'>R$ 50,00</td>
+						<td>R$ 80,00</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td>R$ 45 Consum + R$ 35 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td rowspan='4'>SAB / DOM</td>												
+						<td>13h00</td>
+						<td rowspan='5'>R$ 60,00</td>
+						<td rowspan='2'>R$ 90,00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>15h00</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>17h00</td>
+						<td rowspan='3'>R$ 45 Consum + R$ 45 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>19h00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>SAB</td>										
+						<td>21h00</td>
+					</tr>					
+				</tbody>
+			</table>
+		</div>
+
+		<div class="local pa">
+			<h1>HORÁRIOS E VALORES - RS</h1>
+
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+
+			<div class="experiencias">
+				<p>EXPERIÊNCIAS</p>
+			</div>
+			
+			<table class='table-encontro'>
+				<tbody>
+					<tr class='linha1'>
+						<th colspan='2'>ENCONTRO COM PERSONAGENS</th>
+					</tr>
+					<tr>
+						<td colspan='2' class='bgnormal'>Nessa experiência você terá um encontro com alguns personagens para interação e foto</td>
+					</tr>
+					<tr>
+						<td class='esq'>Dias / Sessões</td>
+						<td class='dir'>Interação com Personagens + Consumação</td>
+					</tr>
+					<tr class='linha1'>
+						<td class='esq'>QUI / SEX (16h)</td>
+						<td class='dir'>Promo: R$ 35,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha2'>
+						<td class='esq'>SEX (16h)</td>
+						<td class='dir'>Promo: R$ 40,00 (Consumação) - sem cobrança de Couvert Art</td>
+					</tr>
+					<tr class='linha3'>
+						<td class='esq'>SAB / DOM (10h30) e DOM (21h)</td>
+						<td class='dir'>Promo: R$ 55,00 (R$ 45,00 Consumação) + (R$ 10,00 Couvert Art)</td>
+					</tr>					
+				</tbody>
+			</table>
+
+			<table class="table-megashow">
+				<tbody>
+					<tr class="linha1">
+						<th colspan='4'>MEGASHOW</th>
+					</tr>
+
+					<tr>
+						<td colspan='4'>Megaexperiência com muita música, dança e teatro, além de efeitos especiais visuais e olfativos.</td>
+					</tr>
+
+					<tr>
+						<td class='esq' colspan='2'>Dias / Sessões</td>
+						<td class='meio'>Couvert Artístico</td>
+						<td class='dir'>Couvert Art + Consumação</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td rowspan='2' colspan='2'>QUI (18h)</td>
+						<td rowspan='2'>R$ 35,00</td>
+						<td>R$ 60,00</td>
+					</tr>
+
+					<tr class='linha1'>
+						<td>R$ 45 Consum + R$ 15 Couvert Art</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td rowspan='2' colspan='2'>QUI / SEX (20h)</td>
+						<td rowspan='2'>R$ 50,00</td>
+						<td>R$ 80,00</td>
+					</tr>
+
+					<tr class='linha2'>
+						<td>R$ 45 Consum + R$ 35 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td rowspan='4'>SAB / DOM</td>												
+						<td>13h00</td>
+						<td rowspan='5'>R$ 60,00</td>
+						<td rowspan='2'>R$ 90,00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>15h00</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>17h00</td>
+						<td rowspan='3'>R$ 45 Consum + R$ 45 Couvert Art</td>
+					</tr>
+
+					<tr class='linha3'>
+						<td>19h00</td>
+					</tr>
+					
+					<tr class='linha3'>
+						<td>SAB</td>										
+						<td>21h00</td>
+					</tr>					
+				</tbody>
+			</table>
+		</div>
+
 	</section>
 
 	<section id="ingressos">
