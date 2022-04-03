@@ -136,9 +136,9 @@
 
 		<div class="menu-locais-links">
 			<a class="active" local="sp">SÃO PAULO</a>
-			<a class="" local="pr">CURITIBA</a>
+			<!-- <a class="" local="pr">CURITIBA</a> -->
 			<a class="" local="br">BRASÍLIA</a>
-			<a class="" local="pa">PORTO ALEGRE</a>
+			<!-- <a class="" local="pa">PORTO ALEGRE</a> -->
 		</div>	
 		
 		<div class="local sp active">
@@ -216,7 +216,8 @@
 		<div class="local sp active">
 			<h1>HORÁRIOS E VALORES - SP</h1>
 
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
 
 			<div class="experiencias">
 				<p>EXPERIÊNCIAS</p>
@@ -316,7 +317,8 @@
 		<div class="local pr">
 			<h1>HORÁRIOS E VALORES - PR</h1>
 
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
 
 			<div class="experiencias">
 				<p>EXPERIÊNCIAS</p>
@@ -413,10 +415,11 @@
 			</table>
 		</div>
 
-		<div class="local br">
+		<!-- <div class="local br">
 			<h1>HORÁRIOS E VALORES - DF</h1>
 
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
 
 			<div class="experiencias">
 				<p>EXPERIÊNCIAS</p>
@@ -510,13 +513,71 @@
 						<td>21h00</td>
 					</tr>					
 				</tbody>
+			</table>
+		</div> -->
+
+		<div class="local br">
+			<h1>VALORES - DF</h1>
+			<h2 class="DesktopItem">Quinta e Sexta - 19h / 20h30</h2>
+			<h2 class="MobileItem">Quinta e Sexta - 19h / 20h30</h2>
+			<table>
+				<tr>
+					<td class="first">HORÁRIO</td>
+					<td class="first">QUI</td>
+					<td class="first">SEX</td>
+				</tr>
+
+				<tr>
+					<td>19h</td>
+					<td>R$ 160,00</td>
+					<td>R$ 180,00</td>
+				</tr>
+
+				<tr>
+					<td>20h30</td>
+					<td>R$ 160,00</td>
+					<td>R$ 180,00</td>
+				</tr>
+			</table>
+
+			<h1>VALORES - DF</h1>
+			<h2 class="DesktopItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
+			<h2 class="MobileItem">Sábados e Domingos - 11h30 / 14h30 / 17h30 / 19h</h2>
+			<table>
+				<tr>
+					<td class="first">HORÁRIO</td>
+					<td class="first">SÁB/DOM</td>
+				</tr>
+
+				<tr>
+					<td>11h30</td>
+					<td>R$ 190,00</td>
+				</tr>
+
+				<tr>
+					<td>14h30</td>
+					<td>R$ 200,00</td>
+				</tr>
+
+				<tr>
+					<td>17h30</td>
+
+					<td>R$ 210,00</td>
+				</tr>
+
+				<tr>
+					<td>19h00</td>
+
+					<td>R$ 200,00</td>
+				</tr>
 			</table>
 		</div>
 
 		<div class="local pa">
 			<h1>HORÁRIOS E VALORES - RS</h1>
 
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15, 17h, 19h e 21h</h2>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
 
 			<div class="experiencias">
 				<p>EXPERIÊNCIAS</p>
@@ -628,7 +689,13 @@
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
 					<h2>SÃO PAULO</h2>
 				</a>
-			</div>			
+			</div>
+
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasDF ?>">
+					<h2>BRASÍLIA</h2>
+				</a>
+			</div>
 		</div>
 
 		<!-- <div class="ingressostxt">

@@ -27,3 +27,4 @@
 
 	// Comprar Ingressos		
 		$siteVendasSP	= 'https://olhaoingresso.showare.com.br/Performance/ShoWareFrontEndPerPerformance.aspx?eventid=303&filter=day&websaleschannelkey=internetchaim&orig=jsdasp';
+		$siteVendasDF	= 'https://olhaoingresso.showare.com.br/Performance/ShoWareFrontEndPerPerformance.aspx?eventid=313&filter=day&websaleschannelkey=internetchaim&orig=jsdabsb';
