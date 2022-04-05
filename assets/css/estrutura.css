@@ -211,9 +211,10 @@ body {display: none; font-family: 'Roboto', sans-serif; box-sizing: border-box; 
 		font-weight: bold;
 	}
 
-	#valores table { width: 85%; text-align: center; margin: auto; background-color: #fff; color: #000; }
-	#valores table th { padding: 20px; font-size: 20px; }
-	#valores table td { border: 1px solid #000; padding: 10px; vertical-align: middle; font-size: 16px; }
+	/* #valores table.new { width: 85%; text-align: center; margin: auto; background-color: #fff; color: #000; } */
+	#valores table.new { text-align: center; background-color: #fff; color: #000; }
+	#valores table.new th { padding: 20px; font-size: 20px; }
+	#valores table.new td { border: 1px solid #000; padding: 10px; vertical-align: middle; font-size: 16px; }
 	
 	#valores .table-encontro .esq { width: 30%; }
 	#valores .table-encontro .dir { width: 70%; }	
