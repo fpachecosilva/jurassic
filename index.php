@@ -138,7 +138,7 @@
 			<a class="active" local="sp">SÃO PAULO</a>
 			<!-- <a class="" local="pr">CURITIBA</a> -->
 			<a class="" local="br">BRASÍLIA</a>
-			<!-- <a class="" local="pa">PORTO ALEGRE</a> -->
+			<a class="" local="pa">PORTO ALEGRE</a>
 		</div>	
 		
 		<div class="local sp active">
@@ -393,108 +393,30 @@
 					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
 				</tr>
 			</table>
-
-			
 		</div>
 
 		<div class="local pa">
-			<h1>HORÁRIOS E VALORES - RS</h1>
+		<h1>VALORES - RS</h1>
+			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<table>
+				<tr>
+					<td class="first"></td>
+					<td class="first">QUI / SEX</td>
+					<td class="first">SÁB / DOM</td>
+				</tr>
 
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
+				<tr>
+					<td>Couvert Artístico</td>
+					<td>R$ 50,00</td>
+					<td>R$ 60,00</td>
+				</tr>
 
-			<div class="experiencias">
-				<p>EXPERIÊNCIAS</p>
-			</div>
-			
-			<table class='table-encontro'>
-				<tbody>
-					<tr class='linha1'>
-						<th colspan='2'>ENCONTRO COM PERSONAGENS</th>
-					</tr>
-					<tr>
-						<td colspan='2' class='bgnormal'>Nessa experiência você terá um encontro com alguns personagens para interação e foto</td>
-					</tr>
-					<tr>
-						<td class='esq'>Dias / Sessões</td>
-						<td class='dir'>Interação com Personagens + Consumação</td>
-					</tr>
-					<tr class='linha1'>
-						<td class='esq'>QUI / SEX (16h)</td>
-						<td class='dir'>Promo: R$ 35,00 (Consumação) - sem cobrança de Couvert Art</td>
-					</tr>
-					<tr class='linha2'>
-						<td class='esq'>SEX (16h)</td>
-						<td class='dir'>Promo: R$ 40,00 (Consumação) - sem cobrança de Couvert Art</td>
-					</tr>
-					<tr class='linha3'>
-						<td class='esq'>SAB / DOM (10h30) e DOM (21h)</td>
-						<td class='dir'>Promo: R$ 55,00 (R$ 45,00 Consumação) + (R$ 10,00 Couvert Art)</td>
-					</tr>					
-				</tbody>
-			</table>
-
-			<table class="table-megashow">
-				<tbody>
-					<tr class="linha1">
-						<th colspan='4'>MEGASHOW</th>
-					</tr>
-
-					<tr>
-						<td colspan='4'>Megaexperiência com muita música, dança e teatro, além de efeitos especiais visuais e olfativos.</td>
-					</tr>
-
-					<tr>
-						<td class='esq' colspan='2'>Dias / Sessões</td>
-						<td class='meio'>Couvert Artístico</td>
-						<td class='dir'>Couvert Art + Consumação</td>
-					</tr>
-
-					<tr class='linha1'>
-						<td rowspan='2' colspan='2'>QUI (18h)</td>
-						<td rowspan='2'>R$ 35,00</td>
-						<td>R$ 60,00</td>
-					</tr>
-
-					<tr class='linha1'>
-						<td>R$ 45 Consum + R$ 15 Couvert Art</td>
-					</tr>
-
-					<tr class='linha2'>
-						<td rowspan='2' colspan='2'>QUI / SEX (20h)</td>
-						<td rowspan='2'>R$ 50,00</td>
-						<td>R$ 80,00</td>
-					</tr>
-
-					<tr class='linha2'>
-						<td>R$ 45 Consum + R$ 35 Couvert Art</td>
-					</tr>
-
-					<tr class='linha3'>
-						<td rowspan='4'>SAB / DOM</td>												
-						<td>13h00</td>
-						<td rowspan='5'>R$ 60,00</td>
-						<td rowspan='2'>R$ 90,00</td>
-					</tr>
-					
-					<tr class='linha3'>
-						<td>15h00</td>
-					</tr>
-
-					<tr class='linha3'>
-						<td>17h00</td>
-						<td rowspan='3'>R$ 45 Consum + R$ 45 Couvert Art</td>
-					</tr>
-
-					<tr class='linha3'>
-						<td>19h00</td>
-					</tr>
-					
-					<tr class='linha3'>
-						<td>SAB</td>										
-						<td>21h00</td>
-					</tr>					
-				</tbody>
+				<tr>
+					<td>Promocional Couvert Art<br> + Consumação</td>
+					<td>R$ 80,00<br>(R$ 35,00 Couvert + R$ 45,00 consumação)</td>
+					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
+				</tr>
 			</table>
 		</div>
 
@@ -518,6 +440,12 @@
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasDF ?>">
 					<h2>BRASÍLIA</h2>
+				</a>
+			</div>
+
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
+					<h2>PORTO ALEGRE</h2>
 				</a>
 			</div>
 		</div>
