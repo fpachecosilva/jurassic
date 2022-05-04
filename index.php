@@ -118,7 +118,7 @@
 			Classificação Etária: Livre
 		</p>
 
-		<video id='video' src="<? echo $images ?>SAFARI DINER 16x9 SP.mov" preload="auto" type="video/mp4" controls poster="<? echo $images ?>video.jpg"></video>
+		<video id='video' src="<? echo $images ?>SAFARI DINER 16x9 SP.mp4" preload="auto" type="video/mp4" controls poster="<? echo $images ?>video.jpg"></video>
 
 		<div class="parceiros DesktopItem">
 			<!-- <p style="text-align: center">PARCEIROS</p>
