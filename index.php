@@ -143,7 +143,7 @@
 
 		<div class="menu-locais-links">
 			<a class="active" local="sp">SÃO PAULO</a>
-			<a class="" local="ca">CAMPINAS</a>
+			<!-- <a class="" local="ca">CAMPINAS</a> -->
 			<a class="" local="ba">SALVADOR</a>
 			<a class="" local="pa">PORTO ALEGRE</a>
 			<a class="" local="br">BRASÍLIA</a>
@@ -529,11 +529,11 @@
 				</a>
 			</div>
 
-			<div class="card">
+			<!-- <div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasCA ?>">
 					<h2>CAMPINAS</h2>
 				</a>
-			</div>
+			</div> -->
 
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasBA ?>">
