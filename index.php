@@ -93,15 +93,15 @@
 			<br><br>
 			
 			<strong>
-			CURITIBA/PR<br>
-			Estacionamento do Park Shopping Barigüi</strong> - Sessões a partir de 07 de Maio<br>
-			R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100
+			SALVADOR/BA<br>
+			Shopping da Bahia</strong> - Sessões a partir de 18 de Junho<br>
+			Av. Tancredo Neves, 148, Caminho das Árvores - Salvador - Bahia - CEP 41820-020
 			<br><br>
-			
+
 			<strong>
-			BRASÍLIA/DF<br>
-			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 13 de Maio<br>
-			SMAS Trecho 1 - Guará, Brasília - DF, 71219-900
+			CAMPINAS/SP<br>
+			Parque D. Pedro Shopping</strong> - Sessões a partir de 25 de Junho<br>
+			Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas - SP, 13087-901
 			<br><br>
 			
 			<strong>
@@ -109,6 +109,13 @@
 			Estacionamento do Barra Shopping Sul</strong> - Sessões a partir de 02 de Julho<br>
 			Av. Diário de Notícias, 300 - Cristal, Porto Alegre - RS, 90810-080
 			<br><br>
+
+			<strong>
+			BRASÍLIA/DF<br>
+			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 13 de Maio<br>
+			SMAS Trecho 1 - Guará, Brasília - DF, 71219-900
+			<br><br>
+			
 			
 			Quintas e Sextas – 18h e 20h<br>
 			Sábados e Domingos – 10h30, 13h, 15h, 17h, 19 e 21h<br>
@@ -136,9 +143,10 @@
 
 		<div class="menu-locais-links">
 			<a class="active" local="sp">SÃO PAULO</a>
-			<!-- <a class="" local="pr">CURITIBA</a> -->
-			<a class="" local="br">BRASÍLIA</a>
+			<a class="" local="ca">CAMPINAS</a>
+			<a class="" local="ba">SALVADOR</a>
 			<a class="" local="pa">PORTO ALEGRE</a>
+			<a class="" local="br">BRASÍLIA</a>
 		</div>	
 		
 		<div class="local sp active">
@@ -199,6 +207,40 @@
 						<img src="<? echo $images ?>icon02.png">
 					</div>
 					<h2>ESTACIONAMENTO BARRA SHOPPING SUL</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="local ca">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>PARQUE D.PEDRO SHOPPING</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="local ba">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>SHOPPING DA BAHIA</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -396,7 +438,57 @@
 		</div>
 
 		<div class="local pa">
-		<h1>VALORES - RS</h1>
+			<h1>VALORES - RS</h1>
+			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<table>
+				<tr>
+					<td class="first"></td>
+					<td class="first">QUI / SEX</td>
+					<td class="first">SÁB / DOM</td>
+				</tr>
+
+				<tr>
+					<td>Couvert Artístico</td>
+					<td>R$ 50,00</td>
+					<td>R$ 60,00</td>
+				</tr>
+
+				<tr>
+					<td>Promocional Couvert Art<br> + Consumação</td>
+					<td>R$ 80,00<br>(R$ 35,00 Couvert + R$ 45,00 consumação)</td>
+					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
+				</tr>
+			</table>
+		</div>
+
+		<div class="local ca">
+			<h1>VALORES - SP</h1>
+			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<table>
+				<tr>
+					<td class="first"></td>
+					<td class="first">QUI / SEX</td>
+					<td class="first">SÁB / DOM</td>
+				</tr>
+
+				<tr>
+					<td>Couvert Artístico</td>
+					<td>R$ 50,00</td>
+					<td>R$ 60,00</td>
+				</tr>
+
+				<tr>
+					<td>Promocional Couvert Art<br> + Consumação</td>
+					<td>R$ 80,00<br>(R$ 35,00 Couvert + R$ 45,00 consumação)</td>
+					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
+				</tr>
+			</table>
+		</div>
+
+		<div class="local ba">
+			<h1>VALORES - BA</h1>
 			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
 			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
 			<table>
@@ -438,14 +530,27 @@
 			</div>
 
 			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasDF ?>">
-					<h2>BRASÍLIA</h2>
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasCA ?>">
+					<h2>CAMPINAS</h2>
 				</a>
 			</div>
 
 			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasBA ?>">
+					<h2>SALVADOR</h2>
+				</a>
+			</div>
+
+			
+			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
 					<h2>PORTO ALEGRE</h2>
+				</a>
+			</div>
+
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasDF ?>">
+					<h2>BRASÍLIA</h2>
 				</a>
 			</div>
 		</div>
