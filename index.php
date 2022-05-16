@@ -112,7 +112,7 @@
 
 			<strong>
 			BRASÍLIA/DF<br>
-			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 13 de Maio<br>
+			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 05 de Novembro<br>
 			SMAS Trecho 1 - Guará, Brasília - DF, 71219-900
 			<br><br>
 			
