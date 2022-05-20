@@ -29,9 +29,7 @@
 				<a href="#ancora-abas">Megashow</a>
 				<a href="#valores">Informações</a>
 				<a href="#ingressos">Ingressos</a>
-			</div>
-			<!-- <a class="cta-button" href="<? echo $IngressoSP ?>">Ingressos para SP</a> -->
-			<!-- <a class="cta-button" href="<? echo $IngressoRJ ?>">Ingressos para RJ</a> -->
+			</div>			
 			<div class="box-social">
 				<a class="botaotopo" href="#ingressos">Comprar Ingresso</a>
 				<?php include 'assets/social.php'; ?>
@@ -41,19 +39,15 @@
 
 	<section id="principal">
 		<img class="bg" src="<? echo $images ?>bg3.jpg">
-		<!-- <img class="dragao-img DesktopItem" src="<? echo $images ?>dino_rex_464x765.png"> -->
 		<article>
-			<!-- <img style="float:none" src="<? echo $images ?>aviso.jpg"> -->
 			<h1>Uma aventura inesquecível para toda família</h1>
 		</article>
-		<!-- <a onclick="pixel()" class="Btn-primary" href="<? echo $siteVendas ?>">Comprar ingressos</a> -->
 		<a class="Btn-primary" href="#ingressos">Comprar ingressos</a>
 
 		<h2>JURASSIC SAFARI EXPERIENCE DINER ADVENTURE</h2>
 		<h3 id="ancora-abas">
 			Com temporadas de estrondoso sucesso em diversas cidades brasileiras, que já contaram mais de 800 mil espectadores no formato Drive-in, a megaexperiência chega à cidade em novo formato trazendo diversas réplicas animadas de dinossauros em tamanhos reais que irão percorrer pelo espaço em performances e movimentos impressionantes
 		</h3>
-		<!-- <img class="dino-img DesktopItem" src="<? echo $images ?>dino_spino_622x781.png"> -->
 	</section>
 
 	<section id="menu-abas">
@@ -97,12 +91,6 @@
 			Shopping da Bahia</strong> - Sessões a partir de 18 de Junho<br>
 			Av. Tancredo Neves, 148, Caminho das Árvores - Salvador - Bahia - CEP 41820-020
 			<br><br>
-
-			<strong>
-			CAMPINAS/SP<br>
-			Parque D. Pedro Shopping</strong> - Sessões a partir de 25 de Junho<br>
-			Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas - SP, 13087-901
-			<br><br>
 			
 			<strong>
 			PORTO ALEGRE/RS<br>
@@ -111,11 +99,16 @@
 			<br><br>
 
 			<strong>
+			BELO HORIZONTE/MG<br>
+			Boulevard Shopping BH</strong> - Sessões a partir de 16 de Julho<br>
+			Av. dos Andradas, 3000 - Santa Efigênia, Belo Horizonte - MG, 30260-070
+			<br><br>
+
+			<strong>
 			BRASÍLIA/DF<br>
 			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 05 de Novembro<br>
 			SMAS Trecho 1 - Guará, Brasília - DF, 71219-900
-			<br><br>
-			
+			<br><br>			
 			
 			Quintas e Sextas – 18h e 20h<br>
 			Sábados e Domingos – 10h30, 13h, 15h, 17h, 19 e 21h<br>
@@ -128,24 +121,18 @@
 		<video id='video' src="<? echo $images ?>SAFARI DINER 16x9 SP.mp4" preload="auto" type="video/mp4" controls poster="<? echo $images ?>video.jpg"></video>
 
 		<div class="parceiros DesktopItem">
-			<!-- <p style="text-align: center">PARCEIROS</p>
-			<img class="logo-parceiros" src="<? echo $images ?>logos-parceiros-euro-semparar.png"> -->
-
 			<p style="text-align: center">MEDIA PARTNER OFICIAL</p>
 			<img class="logo-parceiros" src="<? echo $images ?>media-partner.png">
 		</div>
-
 	</section>
 
 	<section id="icones">
-		<h1 class="DesktopItem">JURASSIC SAFARI</h1>
-		<h1 class="MobileItem">JURASSIC SAFARI</h1>
-
+		<h1>JURASSIC SAFARI</h1>
 		<div class="menu-locais-links">
 			<a class="active" local="sp">SÃO PAULO</a>
-			<!-- <a class="" local="ca">CAMPINAS</a> -->
 			<a class="" local="ba">SALVADOR</a>
 			<a class="" local="pa">PORTO ALEGRE</a>
+			<a class="" local="mg">BELO HORIZONTE</a>
 			<a class="" local="br">BRASÍLIA</a>
 		</div>	
 		
@@ -165,31 +152,14 @@
 				</div>
 			</div>
 		</div>
-		
-		<div class="local pr">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO PARK SHOPPING BARIGÜI</h2>					
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 75min</h2>
-				</div>
-			</div>
-		</div>
 
-		<div class="local br">
+		<div class="local ba">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
 						<img src="<? echo $images ?>icon02.png">
 					</div>
-					<h2>ESTACIONAMENTO PARK SHOPPING BRASÍLIA</h2>					
+					<h2>SHOPPING DA BAHIA</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -217,13 +187,13 @@
 			</div>
 		</div>
 
-		<div class="local ca">
+		<div class="local mg">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
 						<img src="<? echo $images ?>icon02.png">
 					</div>
-					<h2>PARQUE D.PEDRO SHOPPING</h2>					
+					<h2>BOULEVARD SHOPPING BH</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -234,13 +204,13 @@
 			</div>
 		</div>
 
-		<div class="local ba">
+		<div class="local br">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
 						<img src="<? echo $images ?>icon02.png">
 					</div>
-					<h2>SHOPPING DA BAHIA</h2>					
+					<h2>ESTACIONAMENTO PARK SHOPPING BRASÍLIA</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -250,172 +220,103 @@
 				</div>
 			</div>
 		</div>
-		
 	</section>
 
 	<section id="valores">
-				
 		<div class="local sp active">
-			<h1>HORÁRIOS E VALORES - SP</h1>
+			<h1>VALORES - SP</h1>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2>Preços referentes a ingressos para sessões a partir de 26/05</h2>
 
-			<h2>Quinta e Sexta - 16h, 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
-
-			<div class="experiencias">
-				<p>MEGASHOW</p>
-			</div>
-			
-			<table class=''>
-				<tbody>
-					<tr>
-						<td rowspan ='2'></td>
-						<td class='first'>QUI - 18h, 20h</td>
-						<td class='first'>SAB - 13h, 15h, 17h, 19h, 21h</td>
-					</tr>
-					<tr>						
-						<td class='first'>SEX - 20h</td>
-						<td class='first'>DOM - 13h, 15h, 17h, 19h</td>
-					</tr>
-					<tr>
-						<td>Couvert Artístico</td>
-						<td>R$ 50,00</td>
-						<td>R$ 60,00</td>
-					</tr>
-					<tr>
-						<td>Promocional Couvert Art + Consumação</td>
-						<td>R$ 80,00 (R$ 35 Couvert Art + R$ 45 consumação)</td>
-						<td>R$ 90,00 (R$ 45 Couvert Art + R$ 45 consumação)</td>
-					</tr>					
-				</tbody>
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>10h30, 13h, 15h, 17h e 19h</td>
+					<td>13h, 15h e 17h </td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 95,00</td>
+					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
 			</table>
 
-			<table class="">
-				<tbody>
-					<tr>
-						<td rowspan ='2'></td>
-						<td class='first'>QUI - 16h</td>
-						<td class='first' rowspan='2'>SEX - 18h</td>
-						<td class='first'>SAB - 10h30</td>
-					</tr>
-					<tr>						
-						<td class='first'>SEX - 16h</td>
-						<td class='first'>DOM - 10h30 e 21h</td>
-					</tr>
-					<tr>
-						<td>Preços Especiais</td>
-						<td>R$ 35,00 Consumação (sem cobrança de Couvert Art)</td>
-						<td>R$ 40,00 Consumação (sem cobrança de Couvert Art)</td>
-						<td>R$ 55,00 (R$ 10 Couvert Art + R$ 45,00 consumação)</td>
-					</tr>										
-				</tbody>
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>21h</td>
+					<td>10h30, 19h e 21h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">QUI</td>
+					<td class="first">SEX</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>18h e 20h</td>
+					<td>18h e 20h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 55,00</td>
+					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
 			</table>
 		</div>
 
-		<div class="local pr">
-			<h1>HORÁRIOS E VALORES - PR</h1>
-
+		<div class="local ba nomap">
+			<h1>VALORES - BA</h1>
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2>Preços referentes a ingressos para sessões a partir de 21/04</h2>
-
-			<div class="experiencias">
-				<p>EXPERIÊNCIAS</p>
-			</div>
 			
-			<table class='table-encontro'>
-				<tbody>
-					<tr class='linha1'>
-						<th colspan='2'>ENCONTRO COM PERSONAGENS</th>
-					</tr>
-					<tr>
-						<td colspan='2' class='bgnormal'>Nessa experiência você terá um encontro com alguns personagens para interação e foto</td>
-					</tr>
-					<tr>
-						<td class='esq'>Dias / Sessões</td>
-						<td class='dir'>Interação com Personagens + Consumação</td>
-					</tr>
-					<tr class='linha1'>
-						<td class='esq'>QUI / SEX (16h)</td>
-						<td class='dir'>Promo: R$ 35,00 (Consumação) - sem cobrança de Couvert Art</td>
-					</tr>
-					<tr class='linha2'>
-						<td class='esq'>SEX (16h)</td>
-						<td class='dir'>Promo: R$ 40,00 (Consumação) - sem cobrança de Couvert Art</td>
-					</tr>
-					<tr class='linha3'>
-						<td class='esq'>SAB / DOM (10h30) e DOM (21h)</td>
-						<td class='dir'>Promo: R$ 55,00 (R$ 45,00 Consumação) + (R$ 10,00 Couvert Art)</td>
-					</tr>					
-				</tbody>
-			</table>
-
-			<table class="table-megashow">
-				<tbody>
-					<tr class="linha1">
-						<th colspan='4'>MEGASHOW</th>
-					</tr>
-
-					<tr>
-						<td colspan='4'>Megaexperiência com muita música, dança e teatro, além de efeitos especiais visuais e olfativos.</td>
-					</tr>
-
-					<tr>
-						<td class='esq' colspan='2'>Dias / Sessões</td>
-						<td class='meio'>Couvert Artístico</td>
-						<td class='dir'>Couvert Art + Consumação</td>
-					</tr>
-
-					<tr class='linha1'>
-						<td rowspan='2' colspan='2'>QUI (18h)</td>
-						<td rowspan='2'>R$ 35,00</td>
-						<td>R$ 60,00</td>
-					</tr>
-
-					<tr class='linha1'>
-						<td>R$ 45 Consum + R$ 15 Couvert Art</td>
-					</tr>
-
-					<tr class='linha2'>
-						<td rowspan='2' colspan='2'>QUI / SEX (20h)</td>
-						<td rowspan='2'>R$ 50,00</td>
-						<td>R$ 80,00</td>
-					</tr>
-
-					<tr class='linha2'>
-						<td>R$ 45 Consum + R$ 35 Couvert Art</td>
-					</tr>
-
-					<tr class='linha3'>
-						<td rowspan='4'>SAB / DOM</td>												
-						<td>13h00</td>
-						<td rowspan='5'>R$ 60,00</td>
-						<td rowspan='2'>R$ 90,00</td>
-					</tr>
-					
-					<tr class='linha3'>
-						<td>15h00</td>
-					</tr>
-
-					<tr class='linha3'>
-						<td>17h00</td>
-						<td rowspan='3'>R$ 45 Consum + R$ 45 Couvert Art</td>
-					</tr>
-
-					<tr class='linha3'>
-						<td>19h00</td>
-					</tr>
-					
-					<tr class='linha3'>
-						<td>SAB</td>										
-						<td>21h00</td>
-					</tr>					
-				</tbody>
-			</table>
-		</div>		
-
-		<div class="local br">
-			<h1>VALORES - DF</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
 			<table>
 				<tr>
 					<td class="first"></td>
@@ -439,8 +340,8 @@
 
 		<div class="local pa">
 			<h1>VALORES - RS</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>			
+
 			<table>
 				<tr>
 					<td class="first"></td>
@@ -460,12 +361,188 @@
 					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
 				</tr>
 			</table>
+
+			<br><br>
+			<h2>Preços referentes a ingressos para sessões a partir de 14/07</h2>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>10h30, 13h, 15h, 17h e 19h</td>
+					<td>13h, 15h e 17h </td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 95,00</td>
+					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>21h</td>
+					<td>10h30, 19h e 21h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">QUI</td>
+					<td class="first">SEX</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>18h e 20h</td>
+					<td>18h e 20h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 55,00</td>
+					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
 		</div>
 
-		<div class="local ca">
-			<h1>VALORES - SP</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+		<div class="local mg">
+			<h1>VALORES - MG</h1>
+			<h2>Quinta e Sexta - 18h e 20h <BR>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>		
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>10h30, 13h, 15h, 17h e 19h</td>
+					<td>13h, 15h e 17h </td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 95,00</td>
+					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>21h</td>
+					<td>10h30, 19h e 21h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">QUI</td>
+					<td class="first">SEX</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>18h e 20h</td>
+					<td>18h e 20h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 55,00</td>
+					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+		</div>
+
+		<div class="local br">
+			<h1>VALORES - DF</h1>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>			
+
 			<table>
 				<tr>
 					<td class="first"></td>
@@ -485,100 +562,131 @@
 					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
 				</tr>
 			</table>
-		</div>
 
-		<div class="local ba">
-			<h1>VALORES - BA</h1>
-			<h2 class="DesktopItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2 class="MobileItem">Quinta e Sexta - 18h e 20h / Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+			<br><br>
+			<h2>Preços referentes a ingressos para sessões a partir de 19/11</h2>
+
 			<table>
 				<tr>
-					<td class="first"></td>
-					<td class="first">QUI / SEX</td>
-					<td class="first">SÁB / DOM</td>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
 				</tr>
-
 				<tr>
-					<td>Couvert Artístico</td>
-					<td>R$ 50,00</td>
+					<td>Sessões</td>
+					<td>10h30, 13h, 15h, 17h e 19h</td>
+					<td>13h, 15h e 17h </td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 95,00</td>
+					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>21h</td>
+					<td>10h30, 19h e 21h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
 					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
 				</tr>
-
 				<tr>
-					<td>Promocional Couvert Art<br> + Consumação</td>
-					<td>R$ 80,00<br>(R$ 35,00 Couvert + R$ 45,00 consumação)</td>
-					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">QUI</td>
+					<td class="first">SEX</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>18h e 20h</td>
+					<td>18h e 20h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 55,00</td>
+					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
 				</tr>
 			</table>
 		</div>
 
+		<img class="mapa" src="<? echo $images ?>mapa.jpg">
 	</section>
 
 	<section id="ingressos">
 		<h1 class="">INGRESSOS</h1>
-
 		<p class="aviso">
 			Atendendo aos decretos municipais n°60.488 (São Paulo), o evento Jurassic Safari Experience, solicitará ao público que irá assistir e viver a experiência , o comprovante de vacinação do cidadão contra a COVID-19 para o acesso aos eventos. O público poderá apresentar o comprovante físico de vacinação (carteirinha de vacinação), ou de forma digital disponível nas plataformas ConectSUS, que podem ser baixados na loja de aplicativos do seu smartphone. Condições sujeitas às mudanças dos órgãos reguladores até a data de sua sessão.
 		</p>
 
-		<div class="wrapper-card">			
-						
+		<div class="wrapper-card">						
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
 					<h2>SÃO PAULO</h2>
 				</a>
 			</div>
-
-			<!-- <div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasCA ?>">
-					<h2>CAMPINAS</h2>
-				</a>
-			</div> -->
-
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasBA ?>">
 					<h2>SALVADOR</h2>
 				</a>
 			</div>
-
-			
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
 					<h2>PORTO ALEGRE</h2>
 				</a>
 			</div>
-
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMG ?>">
+					<h2>BELO HORIZONTE</h2>
+				</a>
+			</div>
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasDF ?>">
 					<h2>BRASÍLIA</h2>
 				</a>
 			</div>
 		</div>
-
-		<!-- <div class="ingressostxt">
-			<p>
-				Venda de ingressos apenas on-line;<br>
-				Obrigatório a apresentação do ingresso em forma digital ou impressa através de e-ticket. A leitura do ingresso será realizada através de leitores óticos, sem contato manual<br>
-				A data do evento pode sofrer alteração mediante decreto da prefeitura ou por motivos de força maior.<br>
-				Permitido o acesso com veículo com até 4 ocupantes independentemente da idade;<br>
-				Após estacionar o veículo, deverá permanecer desligado o motor até término da sessão;<br>
-				A liberação de saída dos veículos ocorrerá somente após término da sessão. Em caso de emergências acionar a equipe do evento através do pisca alerta.<br><br>
-
-				A abertura das portas dos carros deve acontecer EXCLUSIVAMENTE para a ida ao banheiro. O público deve OBRIGATORIAMENTE permanecer dentro dos veículos durante toda a sessão/apresentação.<br><br>
-
-				PREVENÇÃO AO COVID-19<br>
-				• Aferição de temperatura no acesso, serão liberadas apenas pessoas com temperatura inferior à 37,5º;<br>
-				• Permitido o acesso somente de veículos de passeio fechados, conforme legislação vigente. Veículos conversíveis apenas serão liberados com capota fechada;<br>
-				• Vagas com distanciamento de 2,0m entre os veículos;<br>
-				• OBRIGATÓRIO O USO DE MÁSCARAS, MESMO DENTRO DO VEÍCULO.<br>
-				• Obrigatória a permanência no veículo durante toda a sessão, ficando terminantemente proibida a projeção de braços, cabeça ou qualquer outra parte do corpo para fora do veículo;<br>
-				• Venda de alimentos e bebidas através de QRcode. Haverá lixeiras para descarte apenas na saída do evento.<br>
-				Logo, como não há cobrança individual por pessoa, inaplicável a meia-entrada, cuja concessão depende das condições pessoais de cada indivíduo.<br>
-				Protocolos Sanitários – Governo do Estado de São Paulo<br>
-				Estamos INTEGRALMENTE focados no cumprimento dos protocolos relativos à retomada consciente, não apenas comunicando os procedimentos e exigências como aferindo o INTEGRAL cumprimento por todos.<br>
-				Contamos com a sua colaboração para que todos possam ter a oportunidade de assistir a um grande espetáculo com segurança sem colocar em risco a manutenção das autorizações pertinentes. O descumprimento das normas estabelecidas sujeitarão o público a advertência e, em caso de reincidência, solicitação de retirada.<br>
-			</p>
-		</div> -->
 
 		<div class="box-social">
 			<?php include 'assets/social.php'; ?>
