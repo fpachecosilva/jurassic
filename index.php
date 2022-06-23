@@ -105,6 +105,12 @@
 			<br><br>
 
 			<strong>
+			CAMPINAS/SP<br>
+			Parque D. Pedro Shopping</strong> - Sessões a partir de 25 de Junho​<br>
+			Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas - SP, 13087-901​
+			<br><br>
+
+			<strong>
 			BRASÍLIA/DF<br>
 			Estacionamento do Park Shopping Brasília</strong> - Sessões a partir de 05 de Novembro<br>
 			SMAS Trecho 1 - Guará, Brasília - DF, 71219-900
@@ -133,6 +139,7 @@
 			<a class="" local="ba">SALVADOR</a>
 			<a class="" local="pa">PORTO ALEGRE</a>
 			<a class="" local="mg">BELO HORIZONTE</a>
+			<a class="" local="ca">CAMPINAS</a>
 			<a class="" local="br">BRASÍLIA</a>
 		</div>	
 		
@@ -194,6 +201,23 @@
 						<img src="<? echo $images ?>icon02.png">
 					</div>
 					<h2>BOULEVARD SHOPPING BH</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="local ca">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>PARQUE D. PEDRO SHOPPING​</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -539,6 +563,95 @@
 			</table>
 		</div>
 
+		<div class="local ca">
+			<h1>VALORES - SP</h1>
+			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>10h30, 13h, 15h, 17h e 19h</td>
+					<td>13h, 15h e 17h </td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 95,00</td>
+					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">SÁB</td>
+					<td class="first">DOM</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>21h</td>
+					<td>10h30, 19h e 21h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 80,00</td>
+					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+
+			<table>
+				<tr>
+					<td class="first">Dia</td>
+					<td class="first">QUI</td>
+					<td class="first">SEX</td>
+				</tr>
+				<tr>
+					<td>Sessões</td>
+					<td>18h e 20h</td>
+					<td>18h e 20h</td>
+				</tr>
+				<tr>
+					<td class="setora">Setor A</td>
+					<td>R$ 55,00</td>
+					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorvip">Setor VIP</td>
+					<td>R$ 60,00</td>
+					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
+				</tr>
+				<tr>
+					<td class="setorpremium">Setor Premium</td>
+					<td>R$ 70,00</td>
+					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
+				</tr>
+			</table>
+		</div>
+
 		<div class="local br">
 			<h1>VALORES - DF</h1>
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>			
@@ -679,6 +792,11 @@
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMG ?>">
 					<h2>BELO HORIZONTE</h2>
+				</a>
+			</div>
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasCA ?>">
+					<h2>CAMPINAS</h2>
 				</a>
 			</div>
 			<div class="card">
