@@ -78,19 +78,7 @@
 			<strong>
 			SERVIÇO<br>
 			JURASSIC SAFARI DINER ADVENTURE
-			<br><br></strong>
-
-			<strong>
-			SÃO PAULO/SP<br>
-			Estacionamento Shopping VillaLobos</strong> - Sessões a partir de 09 de Abril<br>
-			Av. Dra. Ruth Cardoso, 4777 - Jardim Universidade Pinheiros, São Paulo - SP, 05477-000
-			<br><br>
-			
-			<strong>
-			SALVADOR/BA<br>
-			Shopping da Bahia</strong> - Sessões a partir de 18 de Junho<br>
-			Av. Tancredo Neves, 148, Caminho das Árvores - Salvador - Bahia - CEP 41820-020
-			<br><br>
+			<br><br></strong>			
 			
 			<strong>
 			PORTO ALEGRE/RS<br>
@@ -135,31 +123,13 @@
 	<section id="icones">
 		<h1>JURASSIC SAFARI</h1>
 		<div class="menu-locais-links">
-			<a class="active" local="sp">SÃO PAULO</a>
-			<a class="" local="pa">PORTO ALEGRE</a>
+			<a class="active" local="pa">PORTO ALEGRE</a>
 			<a class="" local="mg">BELO HORIZONTE</a>
 			<a class="" local="ca">CAMPINAS</a>
 			<a class="" local="br">BRASÍLIA</a>
-		</div>	
-		
-		<div class="local sp active">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO SHOPPING VILLA LOBOS</h2>					
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 75min</h2>
-				</div>
-			</div>
 		</div>
 
-		<div class="local pa">
+		<div class="local pa active">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
@@ -229,162 +199,7 @@
 	</section>
 
 	<section id="valores">
-		<div class="local sp active">
-			<h1>VALORES - SP</h1>
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-			<h2>Preços referentes a ingressos para sessões a partir de 26/05</h2>
-
-			<!-- <table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">SÁB</td>
-					<td class="first">DOM</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>10h30, 13h, 15h, 17h e 19h</td>
-					<td>13h, 15h e 17h </td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 80,00</td>
-					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 95,00</td>
-					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">SÁB</td>
-					<td class="first">DOM</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>21h</td>
-					<td>10h30, 19h e 21h</td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 60,00</td>
-					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 80,00</td>
-					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>18h e 20h</td>
-					<td>18h e 20h</td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 55,00</td>
-					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 60,00</td>
-					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table> -->
-
-			<table class="tabela-a linha1">
-				<tr>
-					<td class="first" rowspan ='3'>Dias e Sessões</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>SÁB - 10h30, 13h, 15h, 17h e 19h</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>DOM - 13h, 15h, 17h e 19h</td>
-				</tr>				
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 80,00 sendo R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 95,00 sendo R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-			<table class="tabela-a linha2">
-				<tr>
-					<td class="first" rowspan ='3'>Dias e Sessões</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>SÁB - 21h</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>DOM - 10h30 e 21h</td>
-				</tr>				
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 60,00 sendo R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 80,00 sendo R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-			<table class="tabela-a linha3">
-				<tr>
-					<td class="first">Dias e Sessões</td>
-					<td class="first">QUI e SEX - 18h e 20h</td>
-				</tr>				
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 55,00 sendo R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 60,00 sendo R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-		</div>
-
-		<div class="local pa">
+		<div class="local pa active">
 			<h1>VALORES - RS</h1>
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>			
 
@@ -498,91 +313,7 @@
 
 		<div class="local mg">
 			<h1>VALORES - MG</h1>
-			<h2>Quinta e Sexta - 18h e 20h <BR>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>		
-
-			<!-- <table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">SÁB</td>
-					<td class="first">DOM</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>10h30, 13h, 15h, 17h e 19h</td>
-					<td>13h, 15h e 17h </td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 80,00</td>
-					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 95,00</td>
-					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">SÁB</td>
-					<td class="first">DOM</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>21h</td>
-					<td>10h30, 19h e 21h</td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 60,00</td>
-					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 80,00</td>
-					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>18h e 20h</td>
-					<td>18h e 20h</td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 55,00</td>
-					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 60,00</td>
-					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table> -->
+			<h2>Quinta e Sexta - 18h e 20h <BR>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
 
 			<table class="tabela-a linha1">
 				<tr>
@@ -917,11 +648,6 @@
 		</p>
 
 		<div class="wrapper-card">						
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
-					<h2>SÃO PAULO</h2>
-				</a>
-			</div>
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
 					<h2>PORTO ALEGRE</h2>

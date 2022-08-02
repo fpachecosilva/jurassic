@@ -448,6 +448,7 @@ body {display: none; font-family: 'Roboto', sans-serif; box-sizing: border-box; 
 	.menu-locais-links:after { width: 70%; }
 
 	#valores table { width: calc(100% + 40px); max-width: calc(100% + 40px); margin-left: -20px; }
+	#valores .tabela-a, #valores .tabela-b { width: calc(100% + 40px) }
 /* :Valores */
 
 /* Footer Mobile: */
