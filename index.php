@@ -123,8 +123,9 @@
 	<section id="icones">
 		<h1>JURASSIC SAFARI</h1>
 		<div class="menu-locais-links">
-			<a class="active" local="pa">PORTO ALEGRE</a>
 			<a class="" local="mg">BELO HORIZONTE</a>
+			<a class="" local="sp">SÃO PAULO</a>
+			<a class="active" local="pa">PORTO ALEGRE</a>
 			<a class="" local="ca">CAMPINAS</a>
 			<a class="" local="br">BRASÍLIA</a>
 		</div>
@@ -187,6 +188,23 @@
 						<img src="<? echo $images ?>icon02.png">
 					</div>
 					<h2>ESTACIONAMENTO PARK SHOPPING BRASÍLIA</h2>					
+				</div>
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon03.png">
+					</div>
+					<h2>DURAÇÃO - 75min</h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="local sp">
+			<div class="wrapper-card">
+				<div class="card">
+					<div class="img-wrapper">
+						<img src="<? echo $images ?>icon02.png">
+					</div>
+					<h2>PLAZA SUL SHOPPING</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -649,13 +667,18 @@
 
 		<div class="wrapper-card">						
 			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
-					<h2>PORTO ALEGRE</h2>
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMG ?>">
+					<h2>BELO HORIZONTE</h2>
 				</a>
 			</div>
 			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMG ?>">
-					<h2>BELO HORIZONTE</h2>
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
+					<h2>SÃO PAULO</h2>
+				</a>
+			</div>
+			<div class="card">
+				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
+					<h2>PORTO ALEGRE</h2>
 				</a>
 			</div>
 			<div class="card">
