@@ -57,8 +57,6 @@
 			<a class="exposicao" href="#ancora-abas">OUTRAS INFORMAÇÕES</a>
 		</div>
 		<p id="megashow">
-			A experiência jurássica que apresenta uma aventura inesquecível para toda a família estreia em São Paulo no dia <strong>09 de abril</strong>, no estacionamento do <strong>Shopping VillaLobos</strong>, agora em novo formato! 
-			<br><br>
 			O megaevento <strong>Jurassic Safari Diner Adventure</strong> mistura muita interatividade, diversão e ciência em um ambiente lúdico e recheado de conhecimento, experiência e aventura, a mistura perfeita entre diversão e gastronomia para toda a família. 
 			<br><br>
 			O show conta a história de um grupo de cientistas que recriou dinossauros de diversos períodos a partir do DNA de fósseis. Dinossauros que agora vivem, ali, dentro de um ambiente mágico. Com a plateia em formato diner*, o público irá se surpreender com as dezenas de répteis pré-históricos animados por técnicas de manipulação e animatronic, que irão correr pelo espaço em performances e movimentos impressionantes bem pertinho dos participantes. Todo o conteúdo de <strong>Jurassic Safari Diner Adventure</strong> tem supervisão de um paleontólogo para que ficção e educação desempenhem a sinergia perfeita.
