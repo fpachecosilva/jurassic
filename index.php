@@ -31,7 +31,7 @@
 				<a href="#ingressos">Ingressos</a>
 			</div>			
 			<div class="box-social">
-				<a class="botaotopo" href="#ingressos">Comprar Ingresso</a>
+				<a class="botaotopo" href="#ingressos">Comprar</a>
 				<?php include 'assets/social.php'; ?>
 			</div>
 		</article>
@@ -42,7 +42,7 @@
 		<article>
 			<h1>Uma aventura inesquecível para toda família</h1>
 		</article>
-		<a class="Btn-primary" href="#ingressos">Comprar ingressos</a>
+		<a class="Btn-primary" href="#ingressos">Comprar</a>
 
 		<h2>JURASSIC SAFARI EXPERIENCE DINER ADVENTURE</h2>
 		<h3 id="ancora-abas">
