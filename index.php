@@ -85,12 +85,6 @@
 			<br><br>
 
 			<strong>
-			BELO HORIZONTE/MG<br>
-			Boulevard Shopping BH</strong> - Sessões a partir de 16 de Julho<br>
-			Av. dos Andradas, 3000 - Santa Efigênia, Belo Horizonte - MG, 30260-070
-			<br><br>
-
-			<strong>
 			CAMPINAS/SP<br>
 			Parque D. Pedro Shopping</strong> - Sessões a partir de 25 de Junho​<br>
 			Av. Guilherme Campos, 500 - Jardim Santa Genebra, Campinas - SP, 13087-901​
@@ -121,7 +115,6 @@
 	<section id="icones">
 		<h1>JURASSIC SAFARI</h1>
 		<div class="menu-locais-links">
-			<a class="" local="mg">BELO HORIZONTE</a>
 			<a class="" local="sp">SÃO PAULO</a>
 			<a class="active" local="pa">PORTO ALEGRE</a>
 			<a class="" local="ca">CAMPINAS</a>
@@ -135,23 +128,6 @@
 						<img src="<? echo $images ?>icon02.png">
 					</div>
 					<h2>ESTACIONAMENTO BARRA SHOPPING SUL</h2>					
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 75min</h2>
-				</div>
-			</div>
-		</div>
-
-		<div class="local mg">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>BOULEVARD SHOPPING BH</h2>					
 				</div>
 				<div class="card">
 					<div class="img-wrapper">
@@ -325,133 +301,7 @@
 					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
 				</tr>
 			</table>
-		</div>
-
-		<div class="local mg">
-			<h1>VALORES - MG</h1>
-			<h2>Quinta e Sexta - 18h e 20h <BR>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
-
-			<table class="tabela-a linha1">
-				<tr>
-					<td class="first" rowspan ='3'>Dias e Sessões</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>SÁB - 10h30, 13h, 15h, 17h e 19h</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>DOM - 13h, 15h, 17h e 19h</td>
-				</tr>				
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 80,00 sendo R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 95,00 sendo R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-			<table class="tabela-a linha2">
-				<tr>
-					<td class="first" rowspan ='3'>Dias e Sessões</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>SÁB - 21h</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>DOM - 10h30 e 21h</td>
-				</tr>				
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 60,00 sendo R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 80,00 sendo R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-			<table class="tabela-a linha3">
-				<tr>
-					<td class="first">Dias e Sessões</td>
-					<td class="first">QUI e SEX - 18h e 20h</td>
-				</tr>				
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 55,00 sendo R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 60,00 sendo R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-
-			<br><br>
-			<h2>Preços referentes a ingressos para sessões a partir de 28/07</h2>
-
-			<table class="tabela-b linha1">
-				<tr>
-					<td class="first" rowspan ='3'>Dias e Sessões</td>					
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>SÁB - 10h30, 13h, 15h, 17h e 19h</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>DOM - 13h, 15h, 17h e 19h</td>
-				</tr>				
-				<tr>
-					<td class="acesso-normal">Acesso Normal</td>
-					<td>R$ 80,00 sendo R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="magic-pass">Magic Pass</td>
-					<td>R$ 95,00 sendo R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-			<table class="tabela-b linha2">
-				<tr>
-					<td class="first" rowspan ='3'>Dias e Sessões</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>SÁB - 21h</td>
-				</tr>				
-				<tr>
-					<td class="first" colspan ='2'>DOM - 10h30 e 21h</td>
-				</tr>				
-				<tr>
-					<td class="acesso-normal">Acesso Normal</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="magic-pass">Magic Pass</td>
-					<td>R$ 80,00 sendo R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>				
-			</table>
-			<table class="tabela-b linha3">
-				<tr>
-					<td class="first">Dias e Sessões</td>
-					<td class="first">QUI e SEX - 18h e 20h</td>
-				</tr>
-				<tr>
-					<td class="acesso-normal">Acesso Normal</td>
-					<td>R$ 60,00 sendo R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="magic-pass">Magic Pass</td>
-					<td>R$ 70,00 sendo R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a MagicPass (acesso prioritário)</td>
-				</tr>
-			</table>
-		</div>
+		</div>		
 
 		<div class="local ca">
 			<h1>VALORES - SP</h1>
@@ -758,12 +608,7 @@
 			Atendendo aos decretos municipais n°60.488 (São Paulo), o evento Jurassic Safari Experience, solicitará ao público que irá assistir e viver a experiência , o comprovante de vacinação do cidadão contra a COVID-19 para o acesso aos eventos. O público poderá apresentar o comprovante físico de vacinação (carteirinha de vacinação), ou de forma digital disponível nas plataformas ConectSUS, que podem ser baixados na loja de aplicativos do seu smartphone. Condições sujeitas às mudanças dos órgãos reguladores até a data de sua sessão.
 		</p>
 
-		<div class="wrapper-card">						
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasMG ?>">
-					<h2>BELO HORIZONTE</h2>
-				</a>
-			</div>
+		<div class="wrapper-card">
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
 					<h2>SÃO PAULO</h2>
