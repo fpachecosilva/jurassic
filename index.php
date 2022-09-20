@@ -77,12 +77,6 @@
 			SERVIÇO<br>
 			JURASSIC SAFARI DINER ADVENTURE
 			<br><br></strong>			
-			
-			<strong>
-			PORTO ALEGRE/RS<br>
-			Estacionamento do Barra Shopping Sul</strong> - Sessões a partir de 02 de Julho<br>
-			Av. Diário de Notícias, 300 - Cristal, Porto Alegre - RS, 90810-080
-			<br><br>
 
 			<strong>
 			CAMPINAS/SP<br>
@@ -115,27 +109,9 @@
 	<section id="icones">
 		<h1>JURASSIC SAFARI</h1>
 		<div class="menu-locais-links">
-			<a class="" local="sp">SÃO PAULO</a>
-			<a class="active" local="pa">PORTO ALEGRE</a>
+			<a class="active" local="sp">SÃO PAULO</a>
 			<a class="" local="ca">CAMPINAS</a>
 			<a class="" local="br">BRASÍLIA</a>
-		</div>
-
-		<div class="local pa active">
-			<div class="wrapper-card">
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon02.png">
-					</div>
-					<h2>ESTACIONAMENTO BARRA SHOPPING SUL</h2>					
-				</div>
-				<div class="card">
-					<div class="img-wrapper">
-						<img src="<? echo $images ?>icon03.png">
-					</div>
-					<h2>DURAÇÃO - 75min</h2>
-				</div>
-			</div>
 		</div>
 
 		<div class="local ca">
@@ -172,7 +148,7 @@
 			</div>
 		</div>
 
-		<div class="local sp">
+		<div class="local sp active">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
@@ -191,118 +167,6 @@
 	</section>
 
 	<section id="valores">
-		<div class="local pa active">
-			<h1>VALORES - RS</h1>
-			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>			
-
-			<table>
-				<tr>
-					<td class="first"></td>
-					<td class="first">QUI / SEX</td>
-					<td class="first">SÁB / DOM</td>
-				</tr>
-
-				<tr>
-					<td>Couvert Artístico</td>
-					<td>R$ 50,00</td>
-					<td>R$ 60,00</td>
-				</tr>
-
-				<tr>
-					<td>Promocional Couvert Art<br> + Consumação</td>
-					<td>R$ 80,00<br>(R$ 35,00 Couvert + R$ 45,00 consumação)</td>
-					<td>R$ 90,00<br>(R$ 45,00 Couvert + R$ 45,00 consumação)</td>
-				</tr>
-			</table>
-
-			<br><br>
-			<h2>Preços referentes a ingressos para sessões a partir de 14/07</h2>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">SÁB</td>
-					<td class="first">DOM</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>10h30, 13h, 15h, 17h e 19h</td>
-					<td>13h, 15h e 17h </td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 80,00</td>
-					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 95,00</td>
-					<td>R$ 45,00 Consumação + R$ 50,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">SÁB</td>
-					<td class="first">DOM</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>21h</td>
-					<td>10h30, 19h e 21h</td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 60,00</td>
-					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 80,00</td>
-					<td>R$ 45,00 Consumação + R$ 35,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-
-			<table>
-				<tr>
-					<td class="first">Dia</td>
-					<td class="first">QUI</td>
-					<td class="first">SEX</td>
-				</tr>
-				<tr>
-					<td>Sessões</td>
-					<td>18h e 20h</td>
-					<td>18h e 20h</td>
-				</tr>
-				<tr>
-					<td class="setora">Setor A</td>
-					<td>R$ 55,00</td>
-					<td>R$ 45,00 Consumação + R$ 10,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorvip">Setor VIP</td>
-					<td>R$ 60,00</td>
-					<td>R$ 45,00 Consumação + R$ 15,00 Couvert Artístico</td>
-				</tr>
-				<tr>
-					<td class="setorpremium">Setor Premium</td>
-					<td>R$ 70,00</td>
-					<td>R$ 45,00 Consumação + R$ 25,00 Couvert Artístico com direito a FastPass (acesso preferencial)</td>
-				</tr>
-			</table>
-		</div>		
-
 		<div class="local ca">
 			<h1>VALORES - SP</h1>
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
@@ -504,7 +368,7 @@
 			</table>
 		</div>
 
-		<div class="local sp">
+		<div class="local sp active">
 			<h1>HORÁRIOS E VALORES - SP</h1>
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
 
@@ -613,12 +477,7 @@
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
 					<h2>SÃO PAULO</h2>
 				</a>
-			</div>
-			<div class="card">
-				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasRS ?>">
-					<h2>PORTO ALEGRE</h2>
-				</a>
-			</div>
+			</div>			
 			<div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasCA ?>">
 					<h2>CAMPINAS</h2>
