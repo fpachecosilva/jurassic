@@ -72,7 +72,7 @@
 			<strong>Pesquisa científica</strong><br>
 			Todo o conteúdo do megashow tem supervisão de Bruno Gonçalves Augusta. Paleontólogo integrante do Laboratório de Paleontologia – Museu de Zoologia da Universidade de São Paulo (MZUSP), Bruno possui graduação em Ciências Biológicas pelo Centro Universitário Fundação Santo André (2007) e Mestrado em Sistemática, Taxonomia Animal e Biodiversidade pelo Museu de Zoologia da USP (2013). Realizou doutorado no Programa de Pós-Graduação em Zoologia do Instituto de Biociências da USP e é coordenador geral do Grupo CienciAção - Divulgação Científica. Tem experiência nas áreas de Zoologia, com ênfase em Paleozoologia; e Divulgação Científica, com ênfase em educação não-formal de Paleontologia em Exposições, Museus e Centros de Ciência. Sua pesquisa está concentrada em ontogenia, morfometria e filogenia de répteis fósseis.
 		</p>
-		<p id="exposicao">
+		<!-- <p id="exposicao">
 			<strong>
 			SERVIÇO<br>
 			JURASSIC SAFARI DINER ADVENTURE
@@ -96,7 +96,7 @@
 			Capacidade: 300 Lugares<br>
 			Duração: 75 minutos<br>
 			Classificação Etária: Livre
-		</p>
+		</p> -->
 
 		<video id='video' src="<? echo $images ?>SAFARI DINER 16x9 SP.mp4" preload="auto" type="video/mp4" controls poster="<? echo $images ?>video.jpg"></video>
 
@@ -109,12 +109,12 @@
 	<section id="icones">
 		<h1>JURASSIC SAFARI</h1>
 		<div class="menu-locais-links">
-			<a class="active" local="sp">SÃO PAULO</a>
+			<!-- <a class="active" local="sp">SÃO PAULO</a>
 			<a class="" local="ca">CAMPINAS</a>
-			<a class="" local="br">BRASÍLIA</a>
+			<a class="" local="br">BRASÍLIA</a> -->
 		</div>
 
-		<div class="local ca">
+		<!-- <div class="local ca">
 			<div class="wrapper-card">
 				<div class="card">
 					<div class="img-wrapper">
@@ -163,11 +163,11 @@
 					<h2>DURAÇÃO - 75min</h2>
 				</div>
 			</div>
-		</div>
+		</div> -->
 	</section>
 
 	<section id="valores">
-		<div class="local ca">
+		<!-- <div class="local ca">
 			<h1>VALORES - SP</h1>
 			<h2>Quinta e Sexta - 18h e 20h <br>Sáb e Dom - 10h30, 13h, 15h, 17h, 19h e 21h</h2>
 
@@ -463,7 +463,7 @@
 			</div>
 		</div>
 
-		<img class="mapa" src="<? echo $images ?>mapa.jpg">
+		<img class="mapa" src="<? echo $images ?>mapa.jpg"> -->
 	</section>
 
 	<section id="ingressos">
@@ -473,7 +473,7 @@
 		</p>
 
 		<div class="wrapper-card">
-			<div class="card">
+			<!-- <div class="card">
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasSP ?>">
 					<h2>SÃO PAULO</h2>
 				</a>
@@ -487,7 +487,7 @@
 				<a onclick="pixel()" class="Btn" href="<? echo $siteVendasDF ?>">
 					<h2>BRASÍLIA</h2>
 				</a>
-			</div>
+			</div> -->
 		</div>
 
 		<div class="box-social">
